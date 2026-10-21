@@ -1,0 +1,16 @@
+{
+  "width": 1800,
+  "height": 1200,
+  "halfHeight": 8,
+  "target": [
+    0,
+    0.2,
+    3.2
+  ],
+  "camera": [
+    12,
+    14,
+    20.1
+  ],
+  "referenceUnit": 65.71646473755105
+}

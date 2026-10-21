@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.server.json
+*.log
+test-results/
+
+# Local credentials and editor state
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Original download archives duplicate the extracted, licensed assets.
+# The largest archive exceeds GitHub's single-file limit.
+assets/open-source/downloads/

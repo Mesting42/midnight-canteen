@@ -1,0 +1,469 @@
+{
+  "verifiedOn": "2026-10-18",
+  "scope": "Free author-published editions only; not integrated into the restaurant renderer.",
+  "sources": [
+    {
+      "name": "Universal Animation Library Standard",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "url": "https://quaternius.itch.io/universal-animation-library",
+      "licenseFile": "assets/open-source/quaternius-ual1/Universal Animation Library[Standard]/License.txt"
+    },
+    {
+      "name": "Universal Base Characters Standard",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "url": "https://quaternius.itch.io/universal-base-characters",
+      "licenseFile": "assets/open-source/quaternius-base-characters/Universal Base Characters[Standard]/License_Standard.txt"
+    },
+    {
+      "name": "Car Kit 3.1",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "url": "https://opengameart.org/content/car-kit",
+      "licenseFile": "assets/open-source/kenney-car-kit/License.txt"
+    },
+    {
+      "name": "Animal Pack Vol.2",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "url": "https://opengameart.org/content/animated-animales-low-poly",
+      "licenseFile": null,
+      "licenseEvidence": "CC0 label on author-published OpenGameArt entry; no separate license text in this older archive."
+    }
+  ],
+  "humanoid": {
+    "file": "assets/open-source/quaternius-ual1/Universal Animation Library[Standard]/Unreal-Godot/UAL1_Standard.glb",
+    "bytes": 7618436,
+    "meshes": 1,
+    "skins": 1,
+    "joints": 65,
+    "nodes": [
+      "Head",
+      "neck_01",
+      "index_04_leaf_l",
+      "index_03_l",
+      "index_02_l",
+      "index_01_l",
+      "middle_04_leaf_l",
+      "middle_03_l",
+      "middle_02_l",
+      "middle_01_l",
+      "pinky_04_leaf_l",
+      "pinky_03_l",
+      "pinky_02_l",
+      "pinky_01_l",
+      "ring_04_leaf_l",
+      "ring_03_l",
+      "ring_02_l",
+      "ring_01_l",
+      "thumb_04_leaf_l",
+      "thumb_03_l",
+      "thumb_02_l",
+      "thumb_01_l",
+      "hand_l",
+      "lowerarm_l",
+      "upperarm_l",
+      "clavicle_l",
+      "index_04_leaf_r",
+      "index_03_r",
+      "index_02_r",
+      "index_01_r",
+      "middle_04_leaf_r",
+      "middle_03_r",
+      "middle_02_r",
+      "middle_01_r",
+      "pinky_04_leaf_r",
+      "pinky_03_r",
+      "pinky_02_r",
+      "pinky_01_r",
+      "ring_04_leaf_r",
+      "ring_03_r",
+      "ring_02_r",
+      "ring_01_r",
+      "thumb_04_leaf_r",
+      "thumb_03_r",
+      "thumb_02_r",
+      "thumb_01_r",
+      "hand_r",
+      "lowerarm_r",
+      "upperarm_r",
+      "clavicle_r",
+      "spine_03",
+      "spine_02",
+      "spine_01",
+      "ball_leaf_l",
+      "ball_l",
+      "foot_l",
+      "calf_l",
+      "thigh_l",
+      "ball_leaf_r",
+      "ball_r",
+      "foot_r",
+      "calf_r",
+      "thigh_r",
+      "pelvis",
+      "root",
+      "Mannequin",
+      "Armature"
+    ],
+    "animations": [
+      {
+        "name": "A_TPose",
+        "tracks": 195,
+        "maxKeys": 76,
+        "duration": 2.5
+      },
+      {
+        "name": "Crouch_Fwd_Loop",
+        "tracks": 195,
+        "maxKeys": 61,
+        "duration": 2
+      },
+      {
+        "name": "Crouch_Idle_Loop",
+        "tracks": 195,
+        "maxKeys": 89,
+        "duration": 2.933333333333333
+      },
+      {
+        "name": "Dance_Loop",
+        "tracks": 195,
+        "maxKeys": 31,
+        "duration": 1
+      },
+      {
+        "name": "Death01",
+        "tracks": 195,
+        "maxKeys": 73,
+        "duration": 2.4
+      },
+      {
+        "name": "Driving_Loop",
+        "tracks": 195,
+        "maxKeys": 51,
+        "duration": 1.6666666666666667
+      },
+      {
+        "name": "Fixing_Kneeling",
+        "tracks": 195,
+        "maxKeys": 157,
+        "duration": 5.2
+      },
+      {
+        "name": "Hit_Chest",
+        "tracks": 195,
+        "maxKeys": 11,
+        "duration": 0.3333333333333333
+      },
+      {
+        "name": "Hit_Head",
+        "tracks": 195,
+        "maxKeys": 14,
+        "duration": 0.43333333333333335
+      },
+      {
+        "name": "Idle_Loop",
+        "tracks": 195,
+        "maxKeys": 76,
+        "duration": 2.5
+      },
+      {
+        "name": "Idle_Talking_Loop",
+        "tracks": 195,
+        "maxKeys": 89,
+        "duration": 2.933333333333333
+      },
+      {
+        "name": "Idle_Torch_Loop",
+        "tracks": 195,
+        "maxKeys": 39,
+        "duration": 1.2666666666666666
+      },
+      {
+        "name": "Interact",
+        "tracks": 195,
+        "maxKeys": 61,
+        "duration": 2
+      },
+      {
+        "name": "Jog_Fwd_Loop",
+        "tracks": 195,
+        "maxKeys": 29,
+        "duration": 0.9333333333333333
+      },
+      {
+        "name": "Jump_Land",
+        "tracks": 195,
+        "maxKeys": 39,
+        "duration": 1.2666666666666666
+      },
+      {
+        "name": "Jump_Loop",
+        "tracks": 195,
+        "maxKeys": 76,
+        "duration": 2.5
+      },
+      {
+        "name": "Jump_Start",
+        "tracks": 195,
+        "maxKeys": 41,
+        "duration": 1.3333333333333333
+      },
+      {
+        "name": "PickUp_Table",
+        "tracks": 195,
+        "maxKeys": 26,
+        "duration": 0.8333333333333334
+      },
+      {
+        "name": "Pistol_Aim_Down",
+        "tracks": 195,
+        "maxKeys": 6,
+        "duration": 0.16666666666666666
+      },
+      {
+        "name": "Pistol_Aim_Neutral",
+        "tracks": 195,
+        "maxKeys": 6,
+        "duration": 0.16666666666666666
+      },
+      {
+        "name": "Pistol_Aim_Up",
+        "tracks": 195,
+        "maxKeys": 6,
+        "duration": 0.16666666666666666
+      },
+      {
+        "name": "Pistol_Idle_Loop",
+        "tracks": 195,
+        "maxKeys": 51,
+        "duration": 1.6666666666666667
+      },
+      {
+        "name": "Pistol_Reload",
+        "tracks": 195,
+        "maxKeys": 51,
+        "duration": 1.6666666666666667
+      },
+      {
+        "name": "Pistol_Shoot",
+        "tracks": 195,
+        "maxKeys": 20,
+        "duration": 0.6333333333333333
+      },
+      {
+        "name": "Punch_Cross",
+        "tracks": 195,
+        "maxKeys": 31,
+        "duration": 1
+      },
+      {
+        "name": "Punch_Jab",
+        "tracks": 195,
+        "maxKeys": 27,
+        "duration": 0.8666666666666667
+      },
+      {
+        "name": "Push_Loop",
+        "tracks": 195,
+        "maxKeys": 81,
+        "duration": 2.6666666666666665
+      },
+      {
+        "name": "Roll",
+        "tracks": 195,
+        "maxKeys": 45,
+        "duration": 1.4666666666666666
+      },
+      {
+        "name": "Sitting_Enter",
+        "tracks": 195,
+        "maxKeys": 40,
+        "duration": 1.3
+      },
+      {
+        "name": "Sitting_Exit",
+        "tracks": 195,
+        "maxKeys": 32,
+        "duration": 1.0333333333333334
+      },
+      {
+        "name": "Sitting_Idle_Loop",
+        "tracks": 195,
+        "maxKeys": 51,
+        "duration": 1.6666666666666667
+      },
+      {
+        "name": "Sitting_Talking_Loop",
+        "tracks": 195,
+        "maxKeys": 89,
+        "duration": 2.933333333333333
+      },
+      {
+        "name": "Spell_Simple_Enter",
+        "tracks": 195,
+        "maxKeys": 17,
+        "duration": 0.5333333333333333
+      },
+      {
+        "name": "Spell_Simple_Exit",
+        "tracks": 195,
+        "maxKeys": 14,
+        "duration": 0.43333333333333335
+      },
+      {
+        "name": "Spell_Simple_Idle_Loop",
+        "tracks": 195,
+        "maxKeys": 64,
+        "duration": 2.1
+      },
+      {
+        "name": "Spell_Simple_Shoot",
+        "tracks": 195,
+        "maxKeys": 16,
+        "duration": 0.5
+      },
+      {
+        "name": "Sprint_Loop",
+        "tracks": 195,
+        "maxKeys": 21,
+        "duration": 0.6666666666666666
+      },
+      {
+        "name": "Swim_Fwd_Loop",
+        "tracks": 195,
+        "maxKeys": 41,
+        "duration": 1.3333333333333333
+      },
+      {
+        "name": "Swim_Idle_Loop",
+        "tracks": 195,
+        "maxKeys": 101,
+        "duration": 3.3333333333333335
+      },
+      {
+        "name": "Sword_Attack",
+        "tracks": 195,
+        "maxKeys": 47,
+        "duration": 1.5333333333333334
+      },
+      {
+        "name": "Sword_Idle",
+        "tracks": 195,
+        "maxKeys": 51,
+        "duration": 1.6666666666666667
+      },
+      {
+        "name": "Walk_Formal_Loop",
+        "tracks": 195,
+        "maxKeys": 41,
+        "duration": 1.3333333333333333
+      },
+      {
+        "name": "Walk_Loop",
+        "tracks": 195,
+        "maxKeys": 41,
+        "duration": 1.3333333333333333
+      }
+    ],
+    "usableMotionCount": 42
+  },
+  "baseCharacters": [
+    {
+      "file": "assets/open-source/quaternius-base-characters/Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Female_FullBody.gltf",
+      "skins": 1,
+      "joints": 65
+    },
+    {
+      "file": "assets/open-source/quaternius-base-characters/Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Male_FullBody.gltf",
+      "skins": 1,
+      "joints": 65
+    }
+  ],
+  "vehicles": {
+    "glbFiles": 50,
+    "sedan": {
+      "file": "assets/open-source/kenney-car-kit/Models/GLB format/sedan.glb",
+      "bytes": 172216,
+      "meshes": 5,
+      "skins": 0,
+      "joints": 0,
+      "nodes": [
+        "wheel-front-right",
+        "body",
+        "wheel-back-left",
+        "wheel-back-right",
+        "wheel-front-left"
+      ],
+      "animations": []
+    },
+    "wheelNodes": [
+      "wheel-front-right",
+      "wheel-back-left",
+      "wheel-back-right",
+      "wheel-front-left"
+    ]
+  },
+  "animals": [
+    {
+      "file": "assets/open-source/quaternius-animals/Animal Pack Vol.2 by @Quaternius/FBX/Cat.fbx",
+      "animations": [
+        {
+          "name": "CatArmature|Idle",
+          "duration": 1.6666666269302368,
+          "tracks": 75
+        },
+        {
+          "name": "CatArmature|Walking",
+          "duration": 1.6666666269302368,
+          "tracks": 75
+        }
+      ]
+    },
+    {
+      "file": "assets/open-source/quaternius-animals/Animal Pack Vol.2 by @Quaternius/FBX/Dog.fbx",
+      "animations": [
+        {
+          "name": "DogArmature|Walking",
+          "duration": 1.6666666269302368,
+          "tracks": 75
+        },
+        {
+          "name": "DogArmature|Idle",
+          "duration": 1.6666666269302368,
+          "tracks": 75
+        }
+      ]
+    }
+  ],
+  "archives": [
+    {
+      "file": "assets/open-source/downloads/kenney-car-kit-3.1.zip",
+      "bytes": 4814237,
+      "sha256": "fac7dacac5c7874348cf19729af3ef205f3d366493edaf0a827d93f4fdf3d0c4"
+    },
+    {
+      "file": "assets/open-source/downloads/quaternius-animals-vol2.zip",
+      "bytes": 2069972,
+      "sha256": "6d8f6789d65dbdb352ebad98a4209f26b41b384e87d81bc05e9ca76139db1248"
+    },
+    {
+      "file": "assets/open-source/downloads/quaternius-base-characters-standard.zip",
+      "bytes": 128968391,
+      "sha256": "fdbf1804c90dfc1ea03e992bff7da2dfd1a79318e13270a660180f9308455f40"
+    },
+    {
+      "file": "assets/open-source/downloads/quaternius-ual1-standard.zip",
+      "bytes": 15904933,
+      "sha256": "cc73fc4e495b82958207316596317a3f40b9fa38065bde1027937452da537724"
+    }
+  ],
+  "limitations": [
+    "No matching ready-made Chinese retro hand-painted mall/restaurant set found in this search.",
+    "Free base-character archive contains Superhero adult male/female bodies; Regular/Teen proportions from full-pack marketing are not in this downloaded free edition.",
+    "Animal FBX import warns about vertices with more than four skin weights; Blender sources are provided for conversion and cleanup.",
+    "No cooking, serving, cleaning, Chinese clothing or age-specific gait coverage has been verified.",
+    "Source preview demonstrates motion and wheel pivots, not the final painted appearance."
+  ]
+}

@@ -1,0 +1,7295 @@
+{
+  "result": "BASELINE",
+  "scope": "Isolated nonpersistent browser contexts; synthetic test saves only; no player profile access.",
+  "errors": [],
+  "reports": [
+    {
+      "id": "phone-small",
+      "width": 568,
+      "height": 320,
+      "touch": true,
+      "title": {
+        "viewport": {
+          "width": 568,
+          "height": 320
+        },
+        "scrollWidth": 568,
+        "scrollHeight": 320,
+        "rects": {
+          ".title-actions": {
+            "x": 22.72,
+            "y": 225.81,
+            "width": 220,
+            "height": 40,
+            "top": 225.81,
+            "right": 242.72,
+            "bottom": 265.81,
+            "left": 22.72
+          },
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "打开设置",
+            "x": 501.61,
+            "y": 16,
+            "width": 38,
+            "height": 38,
+            "top": 16,
+            "right": 539.61,
+            "bottom": 54,
+            "left": 501.61
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "prep": {
+        "viewport": {
+          "width": 568,
+          "height": 320
+        },
+        "scrollWidth": 568,
+        "scrollHeight": 320,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": {
+            "x": 0,
+            "y": 0,
+            "width": 568,
+            "height": 52,
+            "top": 0,
+            "right": 568,
+            "bottom": 52,
+            "left": 0
+          },
+          ".prep-layout": {
+            "x": 0,
+            "y": 52,
+            "width": 568,
+            "height": 268,
+            "top": 52,
+            "right": 568,
+            "bottom": 320,
+            "left": 0
+          },
+          ".prep-work": {
+            "x": 12,
+            "y": 60,
+            "width": 322,
+            "height": 252,
+            "top": 60,
+            "right": 334,
+            "bottom": 312,
+            "left": 12
+          },
+          ".prep-summary": {
+            "x": 346,
+            "y": 60,
+            "width": 210,
+            "height": 252,
+            "top": 60,
+            "right": 556,
+            "bottom": 312,
+            "left": 346
+          },
+          ".prep-tabs": {
+            "x": 16,
+            "y": 62,
+            "width": 314,
+            "height": 23,
+            "top": 62,
+            "right": 330,
+            "bottom": 85,
+            "left": 16
+          },
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "保存",
+            "x": 477,
+            "y": 6.5,
+            "width": 38,
+            "height": 38,
+            "top": 6.5,
+            "right": 515,
+            "bottom": 44.5,
+            "left": 477
+          },
+          {
+            "label": "设置",
+            "x": 520,
+            "y": 6.5,
+            "width": 38,
+            "height": 38,
+            "top": 6.5,
+            "right": 558,
+            "bottom": 44.5,
+            "left": 520
+          },
+          {
+            "label": "菜单与备料",
+            "x": 16,
+            "y": 62,
+            "width": 50,
+            "height": 22,
+            "top": 62,
+            "right": 66,
+            "bottom": 84,
+            "left": 16
+          },
+          {
+            "label": "店铺扩建",
+            "x": 78,
+            "y": 62,
+            "width": 40,
+            "height": 22,
+            "top": 62,
+            "right": 118,
+            "bottom": 84,
+            "left": 78
+          },
+          {
+            "label": "设备升级",
+            "x": 130,
+            "y": 62,
+            "width": 40,
+            "height": 22,
+            "top": 62,
+            "right": 170,
+            "bottom": 84,
+            "left": 130
+          },
+          {
+            "label": "伙伴安排",
+            "x": 182,
+            "y": 62,
+            "width": 40,
+            "height": 22,
+            "top": 62,
+            "right": 222,
+            "bottom": 84,
+            "left": 182
+          },
+          {
+            "label": "补足建议",
+            "x": 508,
+            "y": 68.5,
+            "width": 48,
+            "height": 14,
+            "top": 68.5,
+            "right": 556,
+            "bottom": 82.5,
+            "left": 508
+          },
+          {
+            "label": "移除",
+            "x": 533,
+            "y": 107.5,
+            "width": 23,
+            "height": 26,
+            "top": 107.5,
+            "right": 556,
+            "bottom": 133.5,
+            "left": 533
+          },
+          {
+            "label": "移除",
+            "x": 533,
+            "y": 156.5,
+            "width": 23,
+            "height": 26,
+            "top": 156.5,
+            "right": 556,
+            "bottom": 182.5,
+            "left": 533
+          },
+          {
+            "label": "移除",
+            "x": 533,
+            "y": 205.5,
+            "width": 23,
+            "height": 26,
+            "top": 205.5,
+            "right": 556,
+            "bottom": 231.5,
+            "left": 533
+          },
+          {
+            "label": "移除",
+            "x": 533,
+            "y": 254.5,
+            "width": 23,
+            "height": 26,
+            "top": 254.5,
+            "right": 556,
+            "bottom": 280.5,
+            "left": 533
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": "10px",
+          ".ingredient b": "11px"
+        }
+      },
+      "open": {
+        "x": 358,
+        "y": 266,
+        "width": 198,
+        "height": 38
+      },
+      "game": {
+        "viewport": {
+          "width": 568,
+          "height": 320
+        },
+        "scrollWidth": 568,
+        "scrollHeight": 320,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 568,
+            "height": 52,
+            "top": 0,
+            "right": 568,
+            "bottom": 52,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 52,
+            "width": 568,
+            "height": 222,
+            "top": 52,
+            "right": 568,
+            "bottom": 274,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 52,
+            "width": 363,
+            "height": 222,
+            "top": 52,
+            "right": 363,
+            "bottom": 274,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 363,
+            "y": 52,
+            "width": 205,
+            "height": 222,
+            "top": 52,
+            "right": 568,
+            "bottom": 274,
+            "left": 363
+          },
+          ".order-list": {
+            "x": 364,
+            "y": 84,
+            "width": 204,
+            "height": 190,
+            "top": 84,
+            "right": 568,
+            "bottom": 274,
+            "left": 364
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 274,
+            "width": 568,
+            "height": 46,
+            "top": 274,
+            "right": 568,
+            "bottom": 320,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 486,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 520,
+            "bottom": 43,
+            "left": 486
+          },
+          {
+            "label": "保存",
+            "x": 525,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 559,
+            "bottom": 43,
+            "left": 525
+          },
+          {
+            "label": "−",
+            "x": 8,
+            "y": 231,
+            "width": 36,
+            "height": 36,
+            "top": 231,
+            "right": 44,
+            "bottom": 267,
+            "left": 8
+          },
+          {
+            "label": "＋",
+            "x": 78,
+            "y": 231,
+            "width": 36,
+            "height": 36,
+            "top": 231,
+            "right": 114,
+            "bottom": 267,
+            "left": 78
+          },
+          {
+            "label": "?",
+            "x": 525,
+            "y": 279.5,
+            "width": 36,
+            "height": 36,
+            "top": 279.5,
+            "right": 561,
+            "bottom": 315.5,
+            "left": 525
+          }
+        ],
+        "fonts": {
+          ".order-top b": "9px",
+          ".order-status": "8px",
+          ".order-dish": "8px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settings": {
+        "viewport": {
+          "width": 568,
+          "height": 320
+        },
+        "scrollWidth": 568,
+        "scrollHeight": 320,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 568,
+            "height": 52,
+            "top": 0,
+            "right": 568,
+            "bottom": 52,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 52,
+            "width": 568,
+            "height": 222,
+            "top": 52,
+            "right": 568,
+            "bottom": 274,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 52,
+            "width": 363,
+            "height": 222,
+            "top": 52,
+            "right": 363,
+            "bottom": 274,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 363,
+            "y": 52,
+            "width": 205,
+            "height": 222,
+            "top": 52,
+            "right": 568,
+            "bottom": 274,
+            "left": 363
+          },
+          ".order-list": {
+            "x": 364,
+            "y": 84,
+            "width": 204,
+            "height": 190,
+            "top": 84,
+            "right": 568,
+            "bottom": 274,
+            "left": 364
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 274,
+            "width": 568,
+            "height": 46,
+            "top": 274,
+            "right": 568,
+            "bottom": 320,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 54,
+            "y": 16,
+            "width": 460,
+            "height": 288,
+            "top": 16,
+            "right": 514,
+            "bottom": 304,
+            "left": 54
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 486,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 520,
+            "bottom": 43,
+            "left": 486
+          },
+          {
+            "label": "保存",
+            "x": 525,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 559,
+            "bottom": 43,
+            "left": 525
+          },
+          {
+            "label": "−",
+            "x": 8,
+            "y": 231,
+            "width": 36,
+            "height": 36,
+            "top": 231,
+            "right": 44,
+            "bottom": 267,
+            "left": 8
+          },
+          {
+            "label": "＋",
+            "x": 78,
+            "y": 231,
+            "width": 36,
+            "height": 36,
+            "top": 231,
+            "right": 114,
+            "bottom": 267,
+            "left": 78
+          },
+          {
+            "label": "?",
+            "x": 525,
+            "y": 279.5,
+            "width": 36,
+            "height": 36,
+            "top": 279.5,
+            "right": 561,
+            "bottom": 315.5,
+            "left": 525
+          },
+          {
+            "label": "调整偏好",
+            "x": 84,
+            "y": 277.39,
+            "width": 400,
+            "height": 18,
+            "top": 277.39,
+            "right": 484,
+            "bottom": 295.39,
+            "left": 84
+          },
+          {
+            "label": "关闭设置",
+            "x": 470.89,
+            "y": 27,
+            "width": 29.11,
+            "height": 35,
+            "top": 27,
+            "right": 500,
+            "bottom": 62,
+            "left": 470.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "9px",
+          ".order-status": "8px",
+          ".order-dish": "8px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settingsLast": {
+        "x": 84,
+        "y": 230,
+        "width": 400,
+        "height": 44
+      },
+      "help": {
+        "viewport": {
+          "width": 568,
+          "height": 320
+        },
+        "scrollWidth": 568,
+        "scrollHeight": 320,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 568,
+            "height": 52,
+            "top": 0,
+            "right": 568,
+            "bottom": 52,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 52,
+            "width": 568,
+            "height": 222,
+            "top": 52,
+            "right": 568,
+            "bottom": 274,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 52,
+            "width": 363,
+            "height": 222,
+            "top": 52,
+            "right": 363,
+            "bottom": 274,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 363,
+            "y": 52,
+            "width": 205,
+            "height": 222,
+            "top": 52,
+            "right": 568,
+            "bottom": 274,
+            "left": 363
+          },
+          ".order-list": {
+            "x": 364,
+            "y": 84,
+            "width": 204,
+            "height": 190,
+            "top": 84,
+            "right": 568,
+            "bottom": 274,
+            "left": 364
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 274,
+            "width": 568,
+            "height": 46,
+            "top": 274,
+            "right": 568,
+            "bottom": 320,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 54,
+            "y": 16,
+            "width": 460,
+            "height": 288,
+            "top": 16,
+            "right": 514,
+            "bottom": 304,
+            "left": 54
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 486,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 520,
+            "bottom": 43,
+            "left": 486
+          },
+          {
+            "label": "保存",
+            "x": 525,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 559,
+            "bottom": 43,
+            "left": 525
+          },
+          {
+            "label": "−",
+            "x": 8,
+            "y": 231,
+            "width": 36,
+            "height": 36,
+            "top": 231,
+            "right": 44,
+            "bottom": 267,
+            "left": 8
+          },
+          {
+            "label": "＋",
+            "x": 78,
+            "y": 231,
+            "width": 36,
+            "height": 36,
+            "top": 231,
+            "right": 114,
+            "bottom": 267,
+            "left": 78
+          },
+          {
+            "label": "?",
+            "x": 525,
+            "y": 279.5,
+            "width": 36,
+            "height": 36,
+            "top": 279.5,
+            "right": 561,
+            "bottom": 315.5,
+            "left": 525
+          },
+          {
+            "label": "×",
+            "x": 470.89,
+            "y": 27,
+            "width": 29.11,
+            "height": 35,
+            "top": 27,
+            "right": 500,
+            "bottom": 62,
+            "left": 470.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "9px",
+          ".order-status": "8px",
+          ".order-dish": "8px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "helpLast": {
+        "x": 84,
+        "y": 229.5,
+        "width": 400,
+        "height": 44
+      },
+      "summary": {
+        "viewport": {
+          "width": 568,
+          "height": 320
+        },
+        "scrollWidth": 568,
+        "scrollHeight": 804,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": {
+            "x": 0,
+            "y": 185,
+            "width": 568,
+            "height": 618.98,
+            "top": 185,
+            "right": 568,
+            "bottom": 803.98,
+            "left": 0
+          }
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "next": {
+        "x": 24,
+        "y": 228.984375,
+        "width": 142.09375,
+        "height": 51
+      }
+    },
+    {
+      "id": "phone-standard",
+      "width": 667,
+      "height": 375,
+      "touch": true,
+      "title": {
+        "viewport": {
+          "width": 667,
+          "height": 375
+        },
+        "scrollWidth": 667,
+        "scrollHeight": 375,
+        "rects": {
+          ".title-actions": {
+            "x": 26.67,
+            "y": 255.06,
+            "width": 246.13,
+            "height": 40,
+            "top": 255.06,
+            "right": 272.8,
+            "bottom": 295.06,
+            "left": 26.67
+          },
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "打开设置",
+            "x": 595.66,
+            "y": 18.75,
+            "width": 38,
+            "height": 38,
+            "top": 18.75,
+            "right": 633.66,
+            "bottom": 56.75,
+            "left": 595.66
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "prep": {
+        "viewport": {
+          "width": 667,
+          "height": 375
+        },
+        "scrollWidth": 667,
+        "scrollHeight": 375,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": {
+            "x": 0,
+            "y": 0,
+            "width": 667,
+            "height": 52,
+            "top": 0,
+            "right": 667,
+            "bottom": 52,
+            "left": 0
+          },
+          ".prep-layout": {
+            "x": 0,
+            "y": 52,
+            "width": 667,
+            "height": 323,
+            "top": 52,
+            "right": 667,
+            "bottom": 375,
+            "left": 0
+          },
+          ".prep-work": {
+            "x": 12,
+            "y": 60,
+            "width": 406.64,
+            "height": 307,
+            "top": 60,
+            "right": 418.64,
+            "bottom": 367,
+            "left": 12
+          },
+          ".prep-summary": {
+            "x": 430.64,
+            "y": 60,
+            "width": 224.36,
+            "height": 307,
+            "top": 60,
+            "right": 655,
+            "bottom": 367,
+            "left": 430.64
+          },
+          ".prep-tabs": {
+            "x": 16,
+            "y": 62,
+            "width": 398.64,
+            "height": 23,
+            "top": 62,
+            "right": 414.64,
+            "bottom": 85,
+            "left": 16
+          },
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "保存",
+            "x": 576,
+            "y": 6.5,
+            "width": 38,
+            "height": 38,
+            "top": 6.5,
+            "right": 614,
+            "bottom": 44.5,
+            "left": 576
+          },
+          {
+            "label": "设置",
+            "x": 619,
+            "y": 6.5,
+            "width": 38,
+            "height": 38,
+            "top": 6.5,
+            "right": 657,
+            "bottom": 44.5,
+            "left": 619
+          },
+          {
+            "label": "菜单与备料",
+            "x": 16,
+            "y": 62,
+            "width": 50,
+            "height": 22,
+            "top": 62,
+            "right": 66,
+            "bottom": 84,
+            "left": 16
+          },
+          {
+            "label": "店铺扩建",
+            "x": 78,
+            "y": 62,
+            "width": 40,
+            "height": 22,
+            "top": 62,
+            "right": 118,
+            "bottom": 84,
+            "left": 78
+          },
+          {
+            "label": "设备升级",
+            "x": 130,
+            "y": 62,
+            "width": 40,
+            "height": 22,
+            "top": 62,
+            "right": 170,
+            "bottom": 84,
+            "left": 130
+          },
+          {
+            "label": "伙伴安排",
+            "x": 182,
+            "y": 62,
+            "width": 40,
+            "height": 22,
+            "top": 62,
+            "right": 222,
+            "bottom": 84,
+            "left": 182
+          },
+          {
+            "label": "补足建议",
+            "x": 607,
+            "y": 68.5,
+            "width": 48,
+            "height": 14,
+            "top": 68.5,
+            "right": 655,
+            "bottom": 82.5,
+            "left": 607
+          },
+          {
+            "label": "移除",
+            "x": 632,
+            "y": 107.5,
+            "width": 23,
+            "height": 26,
+            "top": 107.5,
+            "right": 655,
+            "bottom": 133.5,
+            "left": 632
+          },
+          {
+            "label": "移除",
+            "x": 632,
+            "y": 156.5,
+            "width": 23,
+            "height": 26,
+            "top": 156.5,
+            "right": 655,
+            "bottom": 182.5,
+            "left": 632
+          },
+          {
+            "label": "移除",
+            "x": 632,
+            "y": 205.5,
+            "width": 23,
+            "height": 26,
+            "top": 205.5,
+            "right": 655,
+            "bottom": 231.5,
+            "left": 632
+          },
+          {
+            "label": "移除",
+            "x": 632,
+            "y": 254.5,
+            "width": 23,
+            "height": 26,
+            "top": 254.5,
+            "right": 655,
+            "bottom": 280.5,
+            "left": 632
+          },
+          {
+            "label": "稻米10+2",
+            "x": 442.64,
+            "y": 333,
+            "width": 212.36,
+            "height": 29,
+            "top": 333,
+            "right": 655,
+            "bottom": 362,
+            "left": 442.64
+          },
+          {
+            "label": "鸡蛋6+2",
+            "x": 442.64,
+            "y": 362,
+            "width": 212.36,
+            "height": 29,
+            "top": 362,
+            "right": 655,
+            "bottom": 391,
+            "left": 442.64
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": "10px",
+          ".ingredient b": "11px"
+        }
+      },
+      "open": {
+        "x": 442.640625,
+        "y": 321,
+        "width": 212.359375,
+        "height": 38
+      },
+      "game": {
+        "viewport": {
+          "width": 667,
+          "height": 375
+        },
+        "scrollWidth": 667,
+        "scrollHeight": 375,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 667,
+            "height": 52,
+            "top": 0,
+            "right": 667,
+            "bottom": 52,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 52,
+            "width": 667,
+            "height": 277,
+            "top": 52,
+            "right": 667,
+            "bottom": 329,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 52,
+            "width": 440.23,
+            "height": 277,
+            "top": 52,
+            "right": 440.23,
+            "bottom": 329,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 440.23,
+            "y": 52,
+            "width": 226.77,
+            "height": 277,
+            "top": 52,
+            "right": 667,
+            "bottom": 329,
+            "left": 440.23
+          },
+          ".order-list": {
+            "x": 441.23,
+            "y": 84,
+            "width": 225.77,
+            "height": 245,
+            "top": 84,
+            "right": 667,
+            "bottom": 329,
+            "left": 441.23
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 329,
+            "width": 667,
+            "height": 46,
+            "top": 329,
+            "right": 667,
+            "bottom": 375,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 585,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 619,
+            "bottom": 43,
+            "left": 585
+          },
+          {
+            "label": "保存",
+            "x": 624,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 658,
+            "bottom": 43,
+            "left": 624
+          },
+          {
+            "label": "−",
+            "x": 8,
+            "y": 286,
+            "width": 36,
+            "height": 36,
+            "top": 286,
+            "right": 44,
+            "bottom": 322,
+            "left": 8
+          },
+          {
+            "label": "＋",
+            "x": 78,
+            "y": 286,
+            "width": 36,
+            "height": 36,
+            "top": 286,
+            "right": 114,
+            "bottom": 322,
+            "left": 78
+          },
+          {
+            "label": "?",
+            "x": 624,
+            "y": 334.5,
+            "width": 36,
+            "height": 36,
+            "top": 334.5,
+            "right": 660,
+            "bottom": 370.5,
+            "left": 624
+          }
+        ],
+        "fonts": {
+          ".order-top b": "9px",
+          ".order-status": "8px",
+          ".order-dish": "8px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settings": {
+        "viewport": {
+          "width": 667,
+          "height": 375
+        },
+        "scrollWidth": 667,
+        "scrollHeight": 375,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 667,
+            "height": 52,
+            "top": 0,
+            "right": 667,
+            "bottom": 52,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 52,
+            "width": 667,
+            "height": 277,
+            "top": 52,
+            "right": 667,
+            "bottom": 329,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 52,
+            "width": 440.23,
+            "height": 277,
+            "top": 52,
+            "right": 440.23,
+            "bottom": 329,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 440.23,
+            "y": 52,
+            "width": 226.77,
+            "height": 277,
+            "top": 52,
+            "right": 667,
+            "bottom": 329,
+            "left": 440.23
+          },
+          ".order-list": {
+            "x": 441.23,
+            "y": 84,
+            "width": 225.77,
+            "height": 245,
+            "top": 84,
+            "right": 667,
+            "bottom": 329,
+            "left": 441.23
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 329,
+            "width": 667,
+            "height": 46,
+            "top": 329,
+            "right": 667,
+            "bottom": 375,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 103.5,
+            "y": 32.8,
+            "width": 460,
+            "height": 309.39,
+            "top": 32.8,
+            "right": 563.5,
+            "bottom": 342.19,
+            "left": 103.5
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 585,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 619,
+            "bottom": 43,
+            "left": 585
+          },
+          {
+            "label": "保存",
+            "x": 624,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 658,
+            "bottom": 43,
+            "left": 624
+          },
+          {
+            "label": "−",
+            "x": 8,
+            "y": 286,
+            "width": 36,
+            "height": 36,
+            "top": 286,
+            "right": 44,
+            "bottom": 322,
+            "left": 8
+          },
+          {
+            "label": "＋",
+            "x": 78,
+            "y": 286,
+            "width": 36,
+            "height": 36,
+            "top": 286,
+            "right": 114,
+            "bottom": 322,
+            "left": 78
+          },
+          {
+            "label": "?",
+            "x": 624,
+            "y": 334.5,
+            "width": 36,
+            "height": 36,
+            "top": 334.5,
+            "right": 660,
+            "bottom": 370.5,
+            "left": 624
+          },
+          {
+            "label": "调整偏好",
+            "x": 133.5,
+            "y": 294.19,
+            "width": 400,
+            "height": 18,
+            "top": 294.19,
+            "right": 533.5,
+            "bottom": 312.19,
+            "left": 133.5
+          },
+          {
+            "label": "关闭设置",
+            "x": 520.39,
+            "y": 27,
+            "width": 29.11,
+            "height": 35,
+            "top": 27,
+            "right": 549.5,
+            "bottom": 62,
+            "left": 520.39
+          }
+        ],
+        "fonts": {
+          ".order-top b": "9px",
+          ".order-status": "8px",
+          ".order-dish": "8px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settingsLast": {
+        "x": 133.5,
+        "y": 284.4964904785156,
+        "width": 400,
+        "height": 44
+      },
+      "help": {
+        "viewport": {
+          "width": 667,
+          "height": 375
+        },
+        "scrollWidth": 667,
+        "scrollHeight": 375,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 667,
+            "height": 52,
+            "top": 0,
+            "right": 667,
+            "bottom": 52,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 52,
+            "width": 667,
+            "height": 277,
+            "top": 52,
+            "right": 667,
+            "bottom": 329,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 52,
+            "width": 440.23,
+            "height": 277,
+            "top": 52,
+            "right": 440.23,
+            "bottom": 329,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 440.23,
+            "y": 52,
+            "width": 226.77,
+            "height": 277,
+            "top": 52,
+            "right": 667,
+            "bottom": 329,
+            "left": 440.23
+          },
+          ".order-list": {
+            "x": 441.23,
+            "y": 84,
+            "width": 225.77,
+            "height": 245,
+            "top": 84,
+            "right": 667,
+            "bottom": 329,
+            "left": 441.23
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 329,
+            "width": 667,
+            "height": 46,
+            "top": 329,
+            "right": 667,
+            "bottom": 375,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 103.5,
+            "y": 16,
+            "width": 460,
+            "height": 343,
+            "top": 16,
+            "right": 563.5,
+            "bottom": 359,
+            "left": 103.5
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 585,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 619,
+            "bottom": 43,
+            "left": 585
+          },
+          {
+            "label": "保存",
+            "x": 624,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 658,
+            "bottom": 43,
+            "left": 624
+          },
+          {
+            "label": "−",
+            "x": 8,
+            "y": 286,
+            "width": 36,
+            "height": 36,
+            "top": 286,
+            "right": 44,
+            "bottom": 322,
+            "left": 8
+          },
+          {
+            "label": "＋",
+            "x": 78,
+            "y": 286,
+            "width": 36,
+            "height": 36,
+            "top": 286,
+            "right": 114,
+            "bottom": 322,
+            "left": 78
+          },
+          {
+            "label": "?",
+            "x": 624,
+            "y": 334.5,
+            "width": 36,
+            "height": 36,
+            "top": 334.5,
+            "right": 660,
+            "bottom": 370.5,
+            "left": 624
+          },
+          {
+            "label": "×",
+            "x": 520.39,
+            "y": 27,
+            "width": 29.11,
+            "height": 35,
+            "top": 27,
+            "right": 549.5,
+            "bottom": 62,
+            "left": 520.39
+          }
+        ],
+        "fonts": {
+          ".order-top b": "9px",
+          ".order-status": "8px",
+          ".order-dish": "8px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "helpLast": {
+        "x": 133.5,
+        "y": 284.5,
+        "width": 400,
+        "height": 44
+      },
+      "summary": {
+        "viewport": {
+          "width": 667,
+          "height": 375
+        },
+        "scrollWidth": 667,
+        "scrollHeight": 804,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": {
+            "x": 0,
+            "y": 185,
+            "width": 667,
+            "height": 618.98,
+            "top": 185,
+            "right": 667,
+            "bottom": 803.98,
+            "left": 0
+          }
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "next": {
+        "x": 24,
+        "y": 283.984375,
+        "width": 142.09375,
+        "height": 51
+      }
+    },
+    {
+      "id": "phone-wide",
+      "width": 844,
+      "height": 390,
+      "touch": true,
+      "title": {
+        "viewport": {
+          "width": 844,
+          "height": 390
+        },
+        "scrollWidth": 844,
+        "scrollHeight": 390,
+        "rects": {
+          ".title-actions": {
+            "x": 33.75,
+            "y": 263.36,
+            "width": 311.44,
+            "height": 40,
+            "top": 263.36,
+            "right": 345.19,
+            "bottom": 303.36,
+            "left": 33.75
+          },
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "打开设置",
+            "x": 763.81,
+            "y": 19.5,
+            "width": 38,
+            "height": 38,
+            "top": 19.5,
+            "right": 801.81,
+            "bottom": 57.5,
+            "left": 763.81
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "prep": {
+        "viewport": {
+          "width": 844,
+          "height": 390
+        },
+        "scrollWidth": 844,
+        "scrollHeight": 390,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": {
+            "x": 0,
+            "y": 0,
+            "width": 844,
+            "height": 52,
+            "top": 0,
+            "right": 844,
+            "bottom": 52,
+            "left": 0
+          },
+          ".prep-layout": {
+            "x": 0,
+            "y": 52,
+            "width": 844,
+            "height": 338,
+            "top": 52,
+            "right": 844,
+            "bottom": 390,
+            "left": 0
+          },
+          ".prep-work": {
+            "x": 12,
+            "y": 60,
+            "width": 520.7,
+            "height": 322,
+            "top": 60,
+            "right": 532.7,
+            "bottom": 382,
+            "left": 12
+          },
+          ".prep-summary": {
+            "x": 544.7,
+            "y": 60,
+            "width": 287.3,
+            "height": 322,
+            "top": 60,
+            "right": 832,
+            "bottom": 382,
+            "left": 544.7
+          },
+          ".prep-tabs": {
+            "x": 16,
+            "y": 62,
+            "width": 512.7,
+            "height": 43,
+            "top": 62,
+            "right": 528.7,
+            "bottom": 105,
+            "left": 16
+          },
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "保存",
+            "x": 753,
+            "y": 6.5,
+            "width": 38,
+            "height": 38,
+            "top": 6.5,
+            "right": 791,
+            "bottom": 44.5,
+            "left": 753
+          },
+          {
+            "label": "设置",
+            "x": 796,
+            "y": 6.5,
+            "width": 38,
+            "height": 38,
+            "top": 6.5,
+            "right": 834,
+            "bottom": 44.5,
+            "left": 796
+          },
+          {
+            "label": "补足建议",
+            "x": 784,
+            "y": 68.5,
+            "width": 48,
+            "height": 14,
+            "top": 68.5,
+            "right": 832,
+            "bottom": 82.5,
+            "left": 784
+          },
+          {
+            "label": "移除",
+            "x": 809,
+            "y": 107.5,
+            "width": 23,
+            "height": 26,
+            "top": 107.5,
+            "right": 832,
+            "bottom": 133.5,
+            "left": 809
+          },
+          {
+            "label": "移除",
+            "x": 809,
+            "y": 156.5,
+            "width": 23,
+            "height": 26,
+            "top": 156.5,
+            "right": 832,
+            "bottom": 182.5,
+            "left": 809
+          },
+          {
+            "label": "移除",
+            "x": 809,
+            "y": 205.5,
+            "width": 23,
+            "height": 26,
+            "top": 205.5,
+            "right": 832,
+            "bottom": 231.5,
+            "left": 809
+          },
+          {
+            "label": "移除",
+            "x": 809,
+            "y": 254.5,
+            "width": 23,
+            "height": 26,
+            "top": 254.5,
+            "right": 832,
+            "bottom": 280.5,
+            "left": 809
+          },
+          {
+            "label": "稻米10+2",
+            "x": 556.7,
+            "y": 333,
+            "width": 275.3,
+            "height": 29,
+            "top": 333,
+            "right": 832,
+            "bottom": 362,
+            "left": 556.7
+          },
+          {
+            "label": "鸡蛋6+2",
+            "x": 556.7,
+            "y": 362,
+            "width": 275.3,
+            "height": 29,
+            "top": 362,
+            "right": 832,
+            "bottom": 391,
+            "left": 556.7
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": "10px",
+          ".ingredient b": "11px"
+        }
+      },
+      "open": {
+        "x": 556.703125,
+        "y": 336,
+        "width": 275.296875,
+        "height": 38
+      },
+      "game": {
+        "viewport": {
+          "width": 844,
+          "height": 390
+        },
+        "scrollWidth": 844,
+        "scrollHeight": 390,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 844,
+            "height": 52,
+            "top": 0,
+            "right": 844,
+            "bottom": 52,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 52,
+            "width": 844,
+            "height": 292,
+            "top": 52,
+            "right": 844,
+            "bottom": 344,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 52,
+            "width": 557.05,
+            "height": 292,
+            "top": 52,
+            "right": 557.05,
+            "bottom": 344,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 557.05,
+            "y": 52,
+            "width": 286.95,
+            "height": 292,
+            "top": 52,
+            "right": 844,
+            "bottom": 344,
+            "left": 557.05
+          },
+          ".order-list": {
+            "x": 558.05,
+            "y": 84,
+            "width": 285.95,
+            "height": 237,
+            "top": 84,
+            "right": 844,
+            "bottom": 321,
+            "left": 558.05
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 344,
+            "width": 844,
+            "height": 46,
+            "top": 344,
+            "right": 844,
+            "bottom": 390,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 762,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 796,
+            "bottom": 43,
+            "left": 762
+          },
+          {
+            "label": "保存",
+            "x": 801,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 835,
+            "bottom": 43,
+            "left": 801
+          },
+          {
+            "label": "−",
+            "x": 8,
+            "y": 301,
+            "width": 36,
+            "height": 36,
+            "top": 301,
+            "right": 44,
+            "bottom": 337,
+            "left": 8
+          },
+          {
+            "label": "＋",
+            "x": 78,
+            "y": 301,
+            "width": 36,
+            "height": 36,
+            "top": 301,
+            "right": 114,
+            "bottom": 337,
+            "left": 78
+          },
+          {
+            "label": "?",
+            "x": 801,
+            "y": 349.5,
+            "width": 36,
+            "height": 36,
+            "top": 349.5,
+            "right": 837,
+            "bottom": 385.5,
+            "left": 801
+          }
+        ],
+        "fonts": {
+          ".order-top b": "9px",
+          ".order-status": "8px",
+          ".order-dish": "8px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settings": {
+        "viewport": {
+          "width": 844,
+          "height": 390
+        },
+        "scrollWidth": 844,
+        "scrollHeight": 390,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 844,
+            "height": 52,
+            "top": 0,
+            "right": 844,
+            "bottom": 52,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 52,
+            "width": 844,
+            "height": 292,
+            "top": 52,
+            "right": 844,
+            "bottom": 344,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 52,
+            "width": 557.05,
+            "height": 292,
+            "top": 52,
+            "right": 557.05,
+            "bottom": 344,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 557.05,
+            "y": 52,
+            "width": 286.95,
+            "height": 292,
+            "top": 52,
+            "right": 844,
+            "bottom": 344,
+            "left": 557.05
+          },
+          ".order-list": {
+            "x": 558.05,
+            "y": 84,
+            "width": 285.95,
+            "height": 237,
+            "top": 84,
+            "right": 844,
+            "bottom": 321,
+            "left": 558.05
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 344,
+            "width": 844,
+            "height": 46,
+            "top": 344,
+            "right": 844,
+            "bottom": 390,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 192,
+            "y": 40.3,
+            "width": 460,
+            "height": 309.39,
+            "top": 40.3,
+            "right": 652,
+            "bottom": 349.69,
+            "left": 192
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 762,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 796,
+            "bottom": 43,
+            "left": 762
+          },
+          {
+            "label": "保存",
+            "x": 801,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 835,
+            "bottom": 43,
+            "left": 801
+          },
+          {
+            "label": "−",
+            "x": 8,
+            "y": 301,
+            "width": 36,
+            "height": 36,
+            "top": 301,
+            "right": 44,
+            "bottom": 337,
+            "left": 8
+          },
+          {
+            "label": "＋",
+            "x": 78,
+            "y": 301,
+            "width": 36,
+            "height": 36,
+            "top": 301,
+            "right": 114,
+            "bottom": 337,
+            "left": 78
+          },
+          {
+            "label": "?",
+            "x": 801,
+            "y": 349.5,
+            "width": 36,
+            "height": 36,
+            "top": 349.5,
+            "right": 837,
+            "bottom": 385.5,
+            "left": 801
+          },
+          {
+            "label": "调整偏好",
+            "x": 222,
+            "y": 301.69,
+            "width": 400,
+            "height": 18,
+            "top": 301.69,
+            "right": 622,
+            "bottom": 319.69,
+            "left": 222
+          },
+          {
+            "label": "关闭设置",
+            "x": 608.89,
+            "y": 27,
+            "width": 29.11,
+            "height": 35,
+            "top": 27,
+            "right": 638,
+            "bottom": 62,
+            "left": 608.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "9px",
+          ".order-status": "8px",
+          ".order-dish": "8px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settingsLast": {
+        "x": 222,
+        "y": 299.49212646484375,
+        "width": 400,
+        "height": 44
+      },
+      "help": {
+        "viewport": {
+          "width": 844,
+          "height": 390
+        },
+        "scrollWidth": 844,
+        "scrollHeight": 390,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 844,
+            "height": 52,
+            "top": 0,
+            "right": 844,
+            "bottom": 52,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 52,
+            "width": 844,
+            "height": 292,
+            "top": 52,
+            "right": 844,
+            "bottom": 344,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 52,
+            "width": 557.05,
+            "height": 292,
+            "top": 52,
+            "right": 557.05,
+            "bottom": 344,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 557.05,
+            "y": 52,
+            "width": 286.95,
+            "height": 292,
+            "top": 52,
+            "right": 844,
+            "bottom": 344,
+            "left": 557.05
+          },
+          ".order-list": {
+            "x": 558.05,
+            "y": 84,
+            "width": 285.95,
+            "height": 237,
+            "top": 84,
+            "right": 844,
+            "bottom": 321,
+            "left": 558.05
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 344,
+            "width": 844,
+            "height": 46,
+            "top": 344,
+            "right": 844,
+            "bottom": 390,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 192,
+            "y": 16,
+            "width": 460,
+            "height": 358,
+            "top": 16,
+            "right": 652,
+            "bottom": 374,
+            "left": 192
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 762,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 796,
+            "bottom": 43,
+            "left": 762
+          },
+          {
+            "label": "保存",
+            "x": 801,
+            "y": 9,
+            "width": 34,
+            "height": 34,
+            "top": 9,
+            "right": 835,
+            "bottom": 43,
+            "left": 801
+          },
+          {
+            "label": "−",
+            "x": 8,
+            "y": 301,
+            "width": 36,
+            "height": 36,
+            "top": 301,
+            "right": 44,
+            "bottom": 337,
+            "left": 8
+          },
+          {
+            "label": "＋",
+            "x": 78,
+            "y": 301,
+            "width": 36,
+            "height": 36,
+            "top": 301,
+            "right": 114,
+            "bottom": 337,
+            "left": 78
+          },
+          {
+            "label": "?",
+            "x": 801,
+            "y": 349.5,
+            "width": 36,
+            "height": 36,
+            "top": 349.5,
+            "right": 837,
+            "bottom": 385.5,
+            "left": 801
+          },
+          {
+            "label": "×",
+            "x": 608.89,
+            "y": 27,
+            "width": 29.11,
+            "height": 35,
+            "top": 27,
+            "right": 638,
+            "bottom": 62,
+            "left": 608.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "9px",
+          ".order-status": "8px",
+          ".order-dish": "8px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "helpLast": {
+        "x": 222,
+        "y": 299.5,
+        "width": 400,
+        "height": 44
+      },
+      "summary": {
+        "viewport": {
+          "width": 844,
+          "height": 390
+        },
+        "scrollWidth": 844,
+        "scrollHeight": 649,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": {
+            "x": 414,
+            "y": 0,
+            "width": 430,
+            "height": 649.08,
+            "top": 0,
+            "right": 844,
+            "bottom": 649.08,
+            "left": 414
+          }
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "next": {
+        "x": 464.625,
+        "y": 289.078125,
+        "width": 142.09375,
+        "height": 51
+      }
+    },
+    {
+      "id": "phone-large",
+      "width": 932,
+      "height": 430,
+      "touch": true,
+      "title": {
+        "viewport": {
+          "width": 932,
+          "height": 430
+        },
+        "scrollWidth": 932,
+        "scrollHeight": 581,
+        "rects": {
+          ".title-actions": {
+            "x": 46.59,
+            "y": 437.89,
+            "width": 293.58,
+            "height": 51,
+            "top": 437.89,
+            "right": 340.17,
+            "bottom": 488.89,
+            "left": 46.59
+          },
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "打开设置",
+            "x": 847.41,
+            "y": 21.5,
+            "width": 38,
+            "height": 38,
+            "top": 21.5,
+            "right": 885.41,
+            "bottom": 59.5,
+            "left": 847.41
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "prep": {
+        "viewport": {
+          "width": 932,
+          "height": 430
+        },
+        "scrollWidth": 932,
+        "scrollHeight": 1226,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": {
+            "x": 0,
+            "y": -151,
+            "width": 932,
+            "height": 79,
+            "top": -151,
+            "right": 932,
+            "bottom": -72,
+            "left": 0
+          },
+          ".prep-layout": {
+            "x": 0,
+            "y": -72,
+            "width": 932,
+            "height": 1110.5,
+            "top": -72,
+            "right": 932,
+            "bottom": 1038.5,
+            "left": 0
+          },
+          ".prep-work": {
+            "x": 246.14,
+            "y": -50,
+            "width": 424,
+            "height": 1066.5,
+            "top": -50,
+            "right": 670.14,
+            "bottom": 1016.5,
+            "left": 246.14
+          },
+          ".prep-summary": {
+            "x": 688.14,
+            "y": -50,
+            "width": 219.84,
+            "height": 1066.5,
+            "top": -50,
+            "right": 907.98,
+            "bottom": 1016.5,
+            "left": 688.14
+          },
+          ".prep-tabs": {
+            "x": 246.14,
+            "y": -50,
+            "width": 424,
+            "height": 43,
+            "top": -50,
+            "right": 670.14,
+            "bottom": -7,
+            "left": 246.14
+          },
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "移除",
+            "x": 884.98,
+            "y": 7.5,
+            "width": 23,
+            "height": 26,
+            "top": 7.5,
+            "right": 907.98,
+            "bottom": 33.5,
+            "left": 884.98
+          },
+          {
+            "label": "移除",
+            "x": 884.98,
+            "y": 64.5,
+            "width": 23,
+            "height": 26,
+            "top": 64.5,
+            "right": 907.98,
+            "bottom": 90.5,
+            "left": 884.98
+          },
+          {
+            "label": "移除",
+            "x": 884.98,
+            "y": 121.5,
+            "width": 23,
+            "height": 26,
+            "top": 121.5,
+            "right": 907.98,
+            "bottom": 147.5,
+            "left": 884.98
+          },
+          {
+            "label": "移除",
+            "x": 884.98,
+            "y": 178.5,
+            "width": 23,
+            "height": 26,
+            "top": 178.5,
+            "right": 907.98,
+            "bottom": 204.5,
+            "left": 884.98
+          },
+          {
+            "label": "稻米10+2",
+            "x": 704.14,
+            "y": 277,
+            "width": 203.84,
+            "height": 33,
+            "top": 277,
+            "right": 907.98,
+            "bottom": 310,
+            "left": 704.14
+          },
+          {
+            "label": "鸡蛋6+2",
+            "x": 704.14,
+            "y": 310,
+            "width": 203.84,
+            "height": 33,
+            "top": 310,
+            "right": 907.98,
+            "bottom": 343,
+            "left": 704.14
+          },
+          {
+            "label": "时蔬12+2",
+            "x": 704.14,
+            "y": 343,
+            "width": 203.84,
+            "height": 33,
+            "top": 343,
+            "right": 907.98,
+            "bottom": 376,
+            "left": 704.14
+          },
+          {
+            "label": "豆腐8+3",
+            "x": 704.14,
+            "y": 376,
+            "width": 203.84,
+            "height": 33,
+            "top": 376,
+            "right": 907.98,
+            "bottom": 409,
+            "left": 704.14
+          },
+          {
+            "label": "面条0+3",
+            "x": 704.14,
+            "y": 409,
+            "width": 203.84,
+            "height": 33,
+            "top": 409,
+            "right": 907.98,
+            "bottom": 442,
+            "left": 704.14
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": "13px",
+          ".ingredient b": "11px"
+        }
+      },
+      "open": {
+        "x": 704.140625,
+        "y": 193,
+        "width": 203.84375,
+        "height": 44
+      },
+      "game": {
+        "viewport": {
+          "width": 932,
+          "height": 430
+        },
+        "scrollWidth": 932,
+        "scrollHeight": 430,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 932,
+            "height": 60,
+            "top": 0,
+            "right": 932,
+            "bottom": 60,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 60,
+            "width": 932,
+            "height": 302,
+            "top": 60,
+            "right": 932,
+            "bottom": 362,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 60,
+            "width": 686,
+            "height": 724,
+            "top": 60,
+            "right": 686,
+            "bottom": 784,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 686,
+            "y": 60,
+            "width": 246,
+            "height": 724,
+            "top": 60,
+            "right": 932,
+            "bottom": 784,
+            "left": 686
+          },
+          ".order-list": {
+            "x": 687,
+            "y": 138,
+            "width": 245,
+            "height": 615,
+            "top": 138,
+            "right": 932,
+            "bottom": 753,
+            "left": 687
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 362,
+            "width": 932,
+            "height": 56,
+            "top": 362,
+            "right": 932,
+            "bottom": 418,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settings": {
+        "viewport": {
+          "width": 932,
+          "height": 430
+        },
+        "scrollWidth": 932,
+        "scrollHeight": 430,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 932,
+            "height": 60,
+            "top": 0,
+            "right": 932,
+            "bottom": 60,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 60,
+            "width": 932,
+            "height": 302,
+            "top": 60,
+            "right": 932,
+            "bottom": 362,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 60,
+            "width": 686,
+            "height": 724,
+            "top": 60,
+            "right": 686,
+            "bottom": 784,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 686,
+            "y": 60,
+            "width": 246,
+            "height": 724,
+            "top": 60,
+            "right": 932,
+            "bottom": 784,
+            "left": 686
+          },
+          ".order-list": {
+            "x": 687,
+            "y": 138,
+            "width": 245,
+            "height": 615,
+            "top": 138,
+            "right": 932,
+            "bottom": 753,
+            "left": 687
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 362,
+            "width": 932,
+            "height": 56,
+            "top": 362,
+            "right": 932,
+            "bottom": 418,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 236,
+            "y": 60.3,
+            "width": 460,
+            "height": 309.39,
+            "top": 60.3,
+            "right": 696,
+            "bottom": 369.69,
+            "left": 236
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "调整偏好",
+            "x": 266,
+            "y": 321.69,
+            "width": 400,
+            "height": 18,
+            "top": 321.69,
+            "right": 666,
+            "bottom": 339.69,
+            "left": 266
+          },
+          {
+            "label": "关闭设置",
+            "x": 652.89,
+            "y": 27,
+            "width": 29.11,
+            "height": 35,
+            "top": 27,
+            "right": 682,
+            "bottom": 62,
+            "left": 652.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settingsLast": {
+        "x": 266,
+        "y": 340,
+        "width": 400,
+        "height": 44
+      },
+      "help": {
+        "viewport": {
+          "width": 932,
+          "height": 430
+        },
+        "scrollWidth": 932,
+        "scrollHeight": 430,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 932,
+            "height": 60,
+            "top": 0,
+            "right": 932,
+            "bottom": 60,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 60,
+            "width": 932,
+            "height": 302,
+            "top": 60,
+            "right": 932,
+            "bottom": 362,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 60,
+            "width": 686,
+            "height": 724,
+            "top": 60,
+            "right": 686,
+            "bottom": 784,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 686,
+            "y": 60,
+            "width": 246,
+            "height": 724,
+            "top": 60,
+            "right": 932,
+            "bottom": 784,
+            "left": 686
+          },
+          ".order-list": {
+            "x": 687,
+            "y": 138,
+            "width": 245,
+            "height": 615,
+            "top": 138,
+            "right": 932,
+            "bottom": 753,
+            "left": 687
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 362,
+            "width": 932,
+            "height": 56,
+            "top": 362,
+            "right": 932,
+            "bottom": 418,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 236,
+            "y": 16,
+            "width": 460,
+            "height": 398,
+            "top": 16,
+            "right": 696,
+            "bottom": 414,
+            "left": 236
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "×",
+            "x": 652.89,
+            "y": 27,
+            "width": 29.11,
+            "height": 35,
+            "top": 27,
+            "right": 682,
+            "bottom": 62,
+            "left": 652.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "helpLast": {
+        "x": 266,
+        "y": 339.5,
+        "width": 400,
+        "height": 44
+      },
+      "summary": {
+        "viewport": {
+          "width": 932,
+          "height": 430
+        },
+        "scrollWidth": 932,
+        "scrollHeight": 654,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": {
+            "x": 466,
+            "y": -151,
+            "width": 466,
+            "height": 653.64,
+            "top": -151,
+            "right": 932,
+            "bottom": 502.64,
+            "left": 466
+          }
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "next": {
+        "x": 521.90625,
+        "y": 378.640625,
+        "width": 142.09375,
+        "height": 51
+      }
+    },
+    {
+      "id": "phone-portrait",
+      "width": 390,
+      "height": 844,
+      "touch": true,
+      "gate": true,
+      "title": {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "scrollWidth": 390,
+        "scrollHeight": 844,
+        "rects": {
+          ".title-actions": {
+            "x": 27.3,
+            "y": 436.22,
+            "width": 335.41,
+            "height": 51,
+            "top": 436.22,
+            "right": 362.7,
+            "bottom": 487.22,
+            "left": 27.3
+          },
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "打开设置",
+            "x": 332.5,
+            "y": 42.19,
+            "width": 38,
+            "height": 38,
+            "top": 42.19,
+            "right": 370.5,
+            "bottom": 80.19,
+            "left": 332.5
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      }
+    },
+    {
+      "id": "tablet-narrow",
+      "width": 712,
+      "height": 1138,
+      "touch": true,
+      "title": {
+        "viewport": {
+          "width": 712,
+          "height": 1138
+        },
+        "scrollWidth": 712,
+        "scrollHeight": 1138,
+        "rects": {
+          ".title-actions": {
+            "x": 46,
+            "y": 346.88,
+            "width": 620,
+            "height": 51,
+            "top": 346.88,
+            "right": 666,
+            "bottom": 397.88,
+            "left": 46
+          },
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "打开设置",
+            "x": 638.41,
+            "y": 56.89,
+            "width": 38,
+            "height": 38,
+            "top": 56.89,
+            "right": 676.41,
+            "bottom": 94.89,
+            "left": 638.41
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "prep": {
+        "viewport": {
+          "width": 712,
+          "height": 1138
+        },
+        "scrollWidth": 712,
+        "scrollHeight": 1920,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": {
+            "x": 0,
+            "y": 0,
+            "width": 712,
+            "height": 68,
+            "top": 0,
+            "right": 712,
+            "bottom": 68,
+            "left": 0
+          },
+          ".prep-layout": {
+            "x": 0,
+            "y": 68,
+            "width": 712,
+            "height": 1821.16,
+            "top": 68,
+            "right": 712,
+            "bottom": 1889.16,
+            "left": 0
+          },
+          ".prep-work": {
+            "x": 248.16,
+            "y": 94,
+            "width": 431.81,
+            "height": 1062.5,
+            "top": 94,
+            "right": 679.97,
+            "bottom": 1156.5,
+            "left": 248.16
+          },
+          ".prep-summary": {
+            "x": 248.16,
+            "y": 1197.16,
+            "width": 431.81,
+            "height": 668,
+            "top": 1197.16,
+            "right": 679.97,
+            "bottom": 1865.16,
+            "left": 248.16
+          },
+          ".prep-tabs": {
+            "x": 248.16,
+            "y": 94,
+            "width": 431.81,
+            "height": 45,
+            "top": 94,
+            "right": 679.97,
+            "bottom": 139,
+            "left": 248.16
+          },
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": "13px",
+          ".ingredient b": "11px"
+        }
+      },
+      "open": {
+        "x": 248.15625,
+        "y": 1039.15625,
+        "width": 431.8125,
+        "height": 44
+      },
+      "game": {
+        "viewport": {
+          "width": 712,
+          "height": 1138
+        },
+        "scrollWidth": 712,
+        "scrollHeight": 1138,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 712,
+            "height": 64,
+            "top": 0,
+            "right": 712,
+            "bottom": 64,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 64,
+            "width": 712,
+            "height": 1014,
+            "top": 64,
+            "right": 712,
+            "bottom": 1078,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 64,
+            "width": 712,
+            "height": 593.55,
+            "top": 64,
+            "right": 712,
+            "bottom": 657.55,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 0,
+            "y": 657.55,
+            "width": 712,
+            "height": 420.44,
+            "top": 657.55,
+            "right": 712,
+            "bottom": 1077.98,
+            "left": 0
+          },
+          ".order-list": {
+            "x": 0,
+            "y": 699.55,
+            "width": 712,
+            "height": 378.44,
+            "top": 699.55,
+            "right": 712,
+            "bottom": 1077.98,
+            "left": 0
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 1078,
+            "width": 712,
+            "height": 60,
+            "top": 1078,
+            "right": 712,
+            "bottom": 1138,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settings": {
+        "viewport": {
+          "width": 712,
+          "height": 1138
+        },
+        "scrollWidth": 712,
+        "scrollHeight": 1138,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 712,
+            "height": 64,
+            "top": 0,
+            "right": 712,
+            "bottom": 64,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 64,
+            "width": 712,
+            "height": 1014,
+            "top": 64,
+            "right": 712,
+            "bottom": 1078,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 64,
+            "width": 712,
+            "height": 593.55,
+            "top": 64,
+            "right": 712,
+            "bottom": 657.55,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 0,
+            "y": 657.55,
+            "width": 712,
+            "height": 420.44,
+            "top": 657.55,
+            "right": 712,
+            "bottom": 1077.98,
+            "left": 0
+          },
+          ".order-list": {
+            "x": 0,
+            "y": 699.55,
+            "width": 712,
+            "height": 378.44,
+            "top": 699.55,
+            "right": 712,
+            "bottom": 1077.98,
+            "left": 0
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 1078,
+            "width": 712,
+            "height": 60,
+            "top": 1078,
+            "right": 712,
+            "bottom": 1138,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 126,
+            "y": 414.3,
+            "width": 460,
+            "height": 309.39,
+            "top": 414.3,
+            "right": 586,
+            "bottom": 723.69,
+            "left": 126
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "调整偏好",
+            "x": 156,
+            "y": 675.69,
+            "width": 400,
+            "height": 18,
+            "top": 675.69,
+            "right": 556,
+            "bottom": 693.69,
+            "left": 156
+          },
+          {
+            "label": "关闭设置",
+            "x": 542.89,
+            "y": 219,
+            "width": 29.11,
+            "height": 35,
+            "top": 219,
+            "right": 572,
+            "bottom": 254,
+            "left": 542.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settingsLast": {
+        "x": 156,
+        "y": 856,
+        "width": 400,
+        "height": 44
+      },
+      "help": {
+        "viewport": {
+          "width": 712,
+          "height": 1138
+        },
+        "scrollWidth": 712,
+        "scrollHeight": 1138,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 712,
+            "height": 64,
+            "top": 0,
+            "right": 712,
+            "bottom": 64,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 64,
+            "width": 712,
+            "height": 1014,
+            "top": 64,
+            "right": 712,
+            "bottom": 1078,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 64,
+            "width": 712,
+            "height": 593.55,
+            "top": 64,
+            "right": 712,
+            "bottom": 657.55,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 0,
+            "y": 657.55,
+            "width": 712,
+            "height": 420.44,
+            "top": 657.55,
+            "right": 712,
+            "bottom": 1077.98,
+            "left": 0
+          },
+          ".order-list": {
+            "x": 0,
+            "y": 699.55,
+            "width": 712,
+            "height": 378.44,
+            "top": 699.55,
+            "right": 712,
+            "bottom": 1077.98,
+            "left": 0
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 1078,
+            "width": 712,
+            "height": 60,
+            "top": 1078,
+            "right": 712,
+            "bottom": 1138,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 126,
+            "y": 325.75,
+            "width": 460,
+            "height": 486.5,
+            "top": 325.75,
+            "right": 586,
+            "bottom": 812.25,
+            "left": 126
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "×",
+            "x": 542.89,
+            "y": 336.75,
+            "width": 29.11,
+            "height": 35,
+            "top": 336.75,
+            "right": 572,
+            "bottom": 371.75,
+            "left": 542.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "helpLast": {
+        "x": 156,
+        "y": 738.25,
+        "width": 400,
+        "height": 44
+      },
+      "summary": {
+        "viewport": {
+          "width": 712,
+          "height": 1138
+        },
+        "scrollWidth": 712,
+        "scrollHeight": 1138,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": {
+            "x": 0,
+            "y": 330.02,
+            "width": 712,
+            "height": 618.98,
+            "top": 330.02,
+            "right": 712,
+            "bottom": 949,
+            "left": 0
+          }
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "next": {
+        "x": 24,
+        "y": 858,
+        "width": 142.09375,
+        "height": 51
+      }
+    },
+    {
+      "id": "tablet-portrait",
+      "width": 768,
+      "height": 1024,
+      "touch": true,
+      "title": {
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "scrollWidth": 768,
+        "scrollHeight": 1024,
+        "rects": {
+          ".title-actions": {
+            "x": 74,
+            "y": 342.06,
+            "width": 620,
+            "height": 51,
+            "top": 342.06,
+            "right": 694,
+            "bottom": 393.06,
+            "left": 74
+          },
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "打开设置",
+            "x": 691.61,
+            "y": 51.19,
+            "width": 38,
+            "height": 38,
+            "top": 51.19,
+            "right": 729.61,
+            "bottom": 89.19,
+            "left": 691.61
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "prep": {
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "scrollWidth": 768,
+        "scrollHeight": 1914,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 79,
+            "top": 0,
+            "right": 768,
+            "bottom": 79,
+            "left": 0
+          },
+          ".prep-layout": {
+            "x": 0,
+            "y": 79,
+            "width": 768,
+            "height": 1799.39,
+            "top": 79,
+            "right": 768,
+            "bottom": 1878.39,
+            "left": 0
+          },
+          ".prep-work": {
+            "x": 267.67,
+            "y": 105,
+            "width": 465.78,
+            "height": 1068.5,
+            "top": 105,
+            "right": 733.45,
+            "bottom": 1173.5,
+            "left": 267.67
+          },
+          ".prep-summary": {
+            "x": 267.67,
+            "y": 1190.39,
+            "width": 465.78,
+            "height": 664,
+            "top": 1190.39,
+            "right": 733.45,
+            "bottom": 1854.39,
+            "left": 267.67
+          },
+          ".prep-tabs": {
+            "x": 267.67,
+            "y": 105,
+            "width": 465.78,
+            "height": 45,
+            "top": 105,
+            "right": 733.45,
+            "bottom": 150,
+            "left": 267.67
+          },
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "保存",
+            "x": 647.45,
+            "y": 20,
+            "width": 38,
+            "height": 38,
+            "top": 20,
+            "right": 685.45,
+            "bottom": 58,
+            "left": 647.45
+          },
+          {
+            "label": "设置",
+            "x": 695.45,
+            "y": 20,
+            "width": 38,
+            "height": 38,
+            "top": 20,
+            "right": 733.45,
+            "bottom": 58,
+            "left": 695.45
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": "13px",
+          ".ingredient b": "11px"
+        }
+      },
+      "open": {
+        "x": 267.671875,
+        "y": 920.390625,
+        "width": 465.78125,
+        "height": 44
+      },
+      "game": {
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "scrollWidth": 768,
+        "scrollHeight": 1024,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 64,
+            "top": 0,
+            "right": 768,
+            "bottom": 64,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 64,
+            "width": 768,
+            "height": 900,
+            "top": 64,
+            "right": 768,
+            "bottom": 964,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 64,
+            "width": 768,
+            "height": 526.83,
+            "top": 64,
+            "right": 768,
+            "bottom": 590.83,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 0,
+            "y": 590.83,
+            "width": 768,
+            "height": 373.16,
+            "top": 590.83,
+            "right": 768,
+            "bottom": 963.98,
+            "left": 0
+          },
+          ".order-list": {
+            "x": 0,
+            "y": 657.83,
+            "width": 768,
+            "height": 275.16,
+            "top": 657.83,
+            "right": 768,
+            "bottom": 932.98,
+            "left": 0
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 964,
+            "width": 768,
+            "height": 60,
+            "top": 964,
+            "right": 768,
+            "bottom": 1024,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settings": {
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "scrollWidth": 768,
+        "scrollHeight": 1024,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 64,
+            "top": 0,
+            "right": 768,
+            "bottom": 64,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 64,
+            "width": 768,
+            "height": 900,
+            "top": 64,
+            "right": 768,
+            "bottom": 964,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 64,
+            "width": 768,
+            "height": 526.83,
+            "top": 64,
+            "right": 768,
+            "bottom": 590.83,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 0,
+            "y": 590.83,
+            "width": 768,
+            "height": 373.16,
+            "top": 590.83,
+            "right": 768,
+            "bottom": 963.98,
+            "left": 0
+          },
+          ".order-list": {
+            "x": 0,
+            "y": 657.83,
+            "width": 768,
+            "height": 275.16,
+            "top": 657.83,
+            "right": 768,
+            "bottom": 932.98,
+            "left": 0
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 964,
+            "width": 768,
+            "height": 60,
+            "top": 964,
+            "right": 768,
+            "bottom": 1024,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 154,
+            "y": 357.3,
+            "width": 460,
+            "height": 309.39,
+            "top": 357.3,
+            "right": 614,
+            "bottom": 666.69,
+            "left": 154
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "调整偏好",
+            "x": 184,
+            "y": 618.69,
+            "width": 400,
+            "height": 18,
+            "top": 618.69,
+            "right": 584,
+            "bottom": 636.69,
+            "left": 184
+          },
+          {
+            "label": "关闭设置",
+            "x": 570.89,
+            "y": 162,
+            "width": 29.11,
+            "height": 35,
+            "top": 162,
+            "right": 600,
+            "bottom": 197,
+            "left": 570.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settingsLast": {
+        "x": 184,
+        "y": 799,
+        "width": 400,
+        "height": 44
+      },
+      "help": {
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "scrollWidth": 768,
+        "scrollHeight": 1024,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 64,
+            "top": 0,
+            "right": 768,
+            "bottom": 64,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 64,
+            "width": 768,
+            "height": 900,
+            "top": 64,
+            "right": 768,
+            "bottom": 964,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 64,
+            "width": 768,
+            "height": 526.83,
+            "top": 64,
+            "right": 768,
+            "bottom": 590.83,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 0,
+            "y": 590.83,
+            "width": 768,
+            "height": 373.16,
+            "top": 590.83,
+            "right": 768,
+            "bottom": 963.98,
+            "left": 0
+          },
+          ".order-list": {
+            "x": 0,
+            "y": 657.83,
+            "width": 768,
+            "height": 275.16,
+            "top": 657.83,
+            "right": 768,
+            "bottom": 932.98,
+            "left": 0
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 964,
+            "width": 768,
+            "height": 60,
+            "top": 964,
+            "right": 768,
+            "bottom": 1024,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 154,
+            "y": 268.75,
+            "width": 460,
+            "height": 486.5,
+            "top": 268.75,
+            "right": 614,
+            "bottom": 755.25,
+            "left": 154
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "×",
+            "x": 570.89,
+            "y": 279.75,
+            "width": 29.11,
+            "height": 35,
+            "top": 279.75,
+            "right": 600,
+            "bottom": 314.75,
+            "left": 570.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "helpLast": {
+        "x": 184,
+        "y": 681.25,
+        "width": 400,
+        "height": 44
+      },
+      "summary": {
+        "viewport": {
+          "width": 768,
+          "height": 1024
+        },
+        "scrollWidth": 768,
+        "scrollHeight": 1024,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": {
+            "x": 338,
+            "y": 187.56,
+            "width": 430,
+            "height": 648.86,
+            "top": 187.56,
+            "right": 768,
+            "bottom": 836.42,
+            "left": 338
+          }
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "next": {
+        "x": 384.078125,
+        "y": 735.421875,
+        "width": 142.09375,
+        "height": 51
+      }
+    },
+    {
+      "id": "tablet-landscape",
+      "width": 1024,
+      "height": 768,
+      "touch": true,
+      "title": {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "scrollWidth": 1024,
+        "scrollHeight": 768,
+        "rects": {
+          ".title-actions": {
+            "x": 51.19,
+            "y": 536.78,
+            "width": 322.56,
+            "height": 51,
+            "top": 536.78,
+            "right": 373.75,
+            "bottom": 587.78,
+            "left": 51.19
+          },
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "打开设置",
+            "x": 934.81,
+            "y": 38.39,
+            "width": 38,
+            "height": 38,
+            "top": 38.39,
+            "right": 972.81,
+            "bottom": 76.39,
+            "left": 934.81
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "prep": {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "scrollWidth": 1024,
+        "scrollHeight": 1226,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 79,
+            "top": 0,
+            "right": 1024,
+            "bottom": 79,
+            "left": 0
+          },
+          ".prep-layout": {
+            "x": 0,
+            "y": 79,
+            "width": 1024,
+            "height": 1110.5,
+            "top": 79,
+            "right": 1024,
+            "bottom": 1189.5,
+            "left": 0
+          },
+          ".prep-work": {
+            "x": 268.28,
+            "y": 101,
+            "width": 470,
+            "height": 1066.5,
+            "top": 101,
+            "right": 738.28,
+            "bottom": 1167.5,
+            "left": 268.28
+          },
+          ".prep-summary": {
+            "x": 756.28,
+            "y": 101,
+            "width": 243.7,
+            "height": 1066.5,
+            "top": 101,
+            "right": 999.98,
+            "bottom": 1167.5,
+            "left": 756.28
+          },
+          ".prep-tabs": {
+            "x": 268.28,
+            "y": 101,
+            "width": 470,
+            "height": 43,
+            "top": 101,
+            "right": 738.28,
+            "bottom": 144,
+            "left": 268.28
+          },
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "保存",
+            "x": 891.92,
+            "y": 20,
+            "width": 38,
+            "height": 38,
+            "top": 20,
+            "right": 929.92,
+            "bottom": 58,
+            "left": 891.92
+          },
+          {
+            "label": "设置",
+            "x": 939.92,
+            "y": 20,
+            "width": 38,
+            "height": 38,
+            "top": 20,
+            "right": 977.92,
+            "bottom": 58,
+            "left": 939.92
+          },
+          {
+            "label": "补足建议",
+            "x": 939.98,
+            "y": 105.5,
+            "width": 60,
+            "height": 18,
+            "top": 105.5,
+            "right": 999.98,
+            "bottom": 123.5,
+            "left": 939.98
+          },
+          {
+            "label": "移除",
+            "x": 976.98,
+            "y": 158.5,
+            "width": 23,
+            "height": 26,
+            "top": 158.5,
+            "right": 999.98,
+            "bottom": 184.5,
+            "left": 976.98
+          },
+          {
+            "label": "移除",
+            "x": 976.98,
+            "y": 215.5,
+            "width": 23,
+            "height": 26,
+            "top": 215.5,
+            "right": 999.98,
+            "bottom": 241.5,
+            "left": 976.98
+          },
+          {
+            "label": "移除",
+            "x": 976.98,
+            "y": 272.5,
+            "width": 23,
+            "height": 26,
+            "top": 272.5,
+            "right": 999.98,
+            "bottom": 298.5,
+            "left": 976.98
+          },
+          {
+            "label": "移除",
+            "x": 976.98,
+            "y": 329.5,
+            "width": 23,
+            "height": 26,
+            "top": 329.5,
+            "right": 999.98,
+            "bottom": 355.5,
+            "left": 976.98
+          },
+          {
+            "label": "稻米10+2",
+            "x": 772.28,
+            "y": 428,
+            "width": 227.7,
+            "height": 33,
+            "top": 428,
+            "right": 999.98,
+            "bottom": 461,
+            "left": 772.28
+          },
+          {
+            "label": "鸡蛋6+2",
+            "x": 772.28,
+            "y": 461,
+            "width": 227.7,
+            "height": 33,
+            "top": 461,
+            "right": 999.98,
+            "bottom": 494,
+            "left": 772.28
+          },
+          {
+            "label": "时蔬12+2",
+            "x": 772.28,
+            "y": 494,
+            "width": 227.7,
+            "height": 33,
+            "top": 494,
+            "right": 999.98,
+            "bottom": 527,
+            "left": 772.28
+          },
+          {
+            "label": "豆腐8+3",
+            "x": 772.28,
+            "y": 527,
+            "width": 227.7,
+            "height": 33,
+            "top": 527,
+            "right": 999.98,
+            "bottom": 560,
+            "left": 772.28
+          },
+          {
+            "label": "面条0+3",
+            "x": 772.28,
+            "y": 560,
+            "width": 227.7,
+            "height": 33,
+            "top": 560,
+            "right": 999.98,
+            "bottom": 593,
+            "left": 772.28
+          },
+          {
+            "label": "鲜肉0+4",
+            "x": 772.28,
+            "y": 593,
+            "width": 227.7,
+            "height": 33,
+            "top": 593,
+            "right": 999.98,
+            "bottom": 626,
+            "left": 772.28
+          },
+          {
+            "label": "鲜鱼0+4",
+            "x": 772.28,
+            "y": 626,
+            "width": 227.7,
+            "height": 33,
+            "top": 626,
+            "right": 999.98,
+            "bottom": 659,
+            "left": 772.28
+          },
+          {
+            "label": "高汤8+2",
+            "x": 772.28,
+            "y": 659,
+            "width": 227.7,
+            "height": 33,
+            "top": 659,
+            "right": 999.98,
+            "bottom": 692,
+            "left": 772.28
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": "13px",
+          ".ingredient b": "11px"
+        }
+      },
+      "open": {
+        "x": 772.28125,
+        "y": 708,
+        "width": 227.703125,
+        "height": 44
+      },
+      "game": {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "scrollWidth": 1024,
+        "scrollHeight": 768,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 60,
+            "top": 0,
+            "right": 1024,
+            "bottom": 60,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 60,
+            "width": 1024,
+            "height": 640,
+            "top": 60,
+            "right": 1024,
+            "bottom": 700,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 60,
+            "width": 778,
+            "height": 724,
+            "top": 60,
+            "right": 778,
+            "bottom": 784,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 778,
+            "y": 60,
+            "width": 246,
+            "height": 724,
+            "top": 60,
+            "right": 1024,
+            "bottom": 784,
+            "left": 778
+          },
+          ".order-list": {
+            "x": 779,
+            "y": 138,
+            "width": 245,
+            "height": 615,
+            "top": 138,
+            "right": 1024,
+            "bottom": 753,
+            "left": 779
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 700,
+            "width": 1024,
+            "height": 56,
+            "top": 700,
+            "right": 1024,
+            "bottom": 756,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settings": {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "scrollWidth": 1024,
+        "scrollHeight": 768,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 60,
+            "top": 0,
+            "right": 1024,
+            "bottom": 60,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 60,
+            "width": 1024,
+            "height": 640,
+            "top": 60,
+            "right": 1024,
+            "bottom": 700,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 60,
+            "width": 778,
+            "height": 724,
+            "top": 60,
+            "right": 778,
+            "bottom": 784,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 778,
+            "y": 60,
+            "width": 246,
+            "height": 724,
+            "top": 60,
+            "right": 1024,
+            "bottom": 784,
+            "left": 778
+          },
+          ".order-list": {
+            "x": 779,
+            "y": 138,
+            "width": 245,
+            "height": 615,
+            "top": 138,
+            "right": 1024,
+            "bottom": 753,
+            "left": 779
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 700,
+            "width": 1024,
+            "height": 56,
+            "top": 700,
+            "right": 1024,
+            "bottom": 756,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 282,
+            "y": 229.3,
+            "width": 460,
+            "height": 309.39,
+            "top": 229.3,
+            "right": 742,
+            "bottom": 538.69,
+            "left": 282
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "调整偏好",
+            "x": 312,
+            "y": 490.69,
+            "width": 400,
+            "height": 18,
+            "top": 490.69,
+            "right": 712,
+            "bottom": 508.69,
+            "left": 312
+          },
+          {
+            "label": "关闭设置",
+            "x": 698.89,
+            "y": 34,
+            "width": 29.11,
+            "height": 35,
+            "top": 34,
+            "right": 728,
+            "bottom": 69,
+            "left": 698.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settingsLast": {
+        "x": 312,
+        "y": 671,
+        "width": 400,
+        "height": 44
+      },
+      "help": {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "scrollWidth": 1024,
+        "scrollHeight": 768,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 60,
+            "top": 0,
+            "right": 1024,
+            "bottom": 60,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 60,
+            "width": 1024,
+            "height": 640,
+            "top": 60,
+            "right": 1024,
+            "bottom": 700,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 60,
+            "width": 778,
+            "height": 724,
+            "top": 60,
+            "right": 778,
+            "bottom": 784,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 778,
+            "y": 60,
+            "width": 246,
+            "height": 724,
+            "top": 60,
+            "right": 1024,
+            "bottom": 784,
+            "left": 778
+          },
+          ".order-list": {
+            "x": 779,
+            "y": 138,
+            "width": 245,
+            "height": 615,
+            "top": 138,
+            "right": 1024,
+            "bottom": 753,
+            "left": 779
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 700,
+            "width": 1024,
+            "height": 56,
+            "top": 700,
+            "right": 1024,
+            "bottom": 756,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 282,
+            "y": 140.75,
+            "width": 460,
+            "height": 486.5,
+            "top": 140.75,
+            "right": 742,
+            "bottom": 627.25,
+            "left": 282
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "×",
+            "x": 698.89,
+            "y": 151.75,
+            "width": 29.11,
+            "height": 35,
+            "top": 151.75,
+            "right": 728,
+            "bottom": 186.75,
+            "left": 698.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "helpLast": {
+        "x": 312,
+        "y": 553.25,
+        "width": 400,
+        "height": 44
+      },
+      "summary": {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "scrollWidth": 1024,
+        "scrollHeight": 768,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": {
+            "x": 512,
+            "y": 54.78,
+            "width": 512,
+            "height": 658.44,
+            "top": 54.78,
+            "right": 1024,
+            "bottom": 713.22,
+            "left": 512
+          }
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "next": {
+        "x": 573.4375,
+        "y": 612.21875,
+        "width": 142.09375,
+        "height": 51
+      }
+    },
+    {
+      "id": "tablet-large",
+      "width": 1180,
+      "height": 820,
+      "touch": true,
+      "title": {
+        "viewport": {
+          "width": 1180,
+          "height": 820
+        },
+        "scrollWidth": 1180,
+        "scrollHeight": 820,
+        "rects": {
+          ".title-actions": {
+            "x": 82.59,
+            "y": 559.05,
+            "width": 365.33,
+            "height": 51,
+            "top": 559.05,
+            "right": 447.92,
+            "bottom": 610.05,
+            "left": 82.59
+          },
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "打开设置",
+            "x": 1083,
+            "y": 41,
+            "width": 38,
+            "height": 38,
+            "top": 41,
+            "right": 1121,
+            "bottom": 79,
+            "left": 1083
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "prep": {
+        "viewport": {
+          "width": 1180,
+          "height": 820
+        },
+        "scrollWidth": 1180,
+        "scrollHeight": 934,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1180,
+            "height": 79,
+            "top": 0,
+            "right": 1180,
+            "bottom": 79,
+            "left": 0
+          },
+          ".prep-layout": {
+            "x": 0,
+            "y": 79,
+            "width": 1180,
+            "height": 819,
+            "top": 79,
+            "right": 1180,
+            "bottom": 898,
+            "left": 0
+          },
+          ".prep-work": {
+            "x": 347.09,
+            "y": 117,
+            "width": 500,
+            "height": 751,
+            "top": 117,
+            "right": 847.09,
+            "bottom": 868,
+            "left": 347.09
+          },
+          ".prep-summary": {
+            "x": 881.09,
+            "y": 117,
+            "width": 270,
+            "height": 751,
+            "top": 117,
+            "right": 1151.09,
+            "bottom": 868,
+            "left": 881.09
+          },
+          ".prep-tabs": {
+            "x": 347.09,
+            "y": 117,
+            "width": 500,
+            "height": 31,
+            "top": 117,
+            "right": 847.09,
+            "bottom": 148,
+            "left": 347.09
+          },
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "保存",
+            "x": 1040.91,
+            "y": 20,
+            "width": 38,
+            "height": 38,
+            "top": 20,
+            "right": 1078.91,
+            "bottom": 58,
+            "left": 1040.91
+          },
+          {
+            "label": "设置",
+            "x": 1088.91,
+            "y": 20,
+            "width": 38,
+            "height": 38,
+            "top": 20,
+            "right": 1126.91,
+            "bottom": 58,
+            "left": 1088.91
+          },
+          {
+            "label": "菜单与备料",
+            "x": 347.09,
+            "y": 117,
+            "width": 65,
+            "height": 30,
+            "top": 117,
+            "right": 412.09,
+            "bottom": 147,
+            "left": 347.09
+          },
+          {
+            "label": "店铺扩建",
+            "x": 434.09,
+            "y": 117,
+            "width": 52,
+            "height": 30,
+            "top": 117,
+            "right": 486.09,
+            "bottom": 147,
+            "left": 434.09
+          },
+          {
+            "label": "设备升级",
+            "x": 508.09,
+            "y": 117,
+            "width": 52,
+            "height": 30,
+            "top": 117,
+            "right": 560.09,
+            "bottom": 147,
+            "left": 508.09
+          },
+          {
+            "label": "伙伴安排",
+            "x": 582.09,
+            "y": 117,
+            "width": 52,
+            "height": 30,
+            "top": 117,
+            "right": 634.09,
+            "bottom": 147,
+            "left": 582.09
+          },
+          {
+            "label": "补足建议",
+            "x": 1091.09,
+            "y": 121.5,
+            "width": 60,
+            "height": 18,
+            "top": 121.5,
+            "right": 1151.09,
+            "bottom": 139.5,
+            "left": 1091.09
+          },
+          {
+            "label": "移除",
+            "x": 1128.09,
+            "y": 174.5,
+            "width": 23,
+            "height": 26,
+            "top": 174.5,
+            "right": 1151.09,
+            "bottom": 200.5,
+            "left": 1128.09
+          },
+          {
+            "label": "移除",
+            "x": 1128.09,
+            "y": 231.5,
+            "width": 23,
+            "height": 26,
+            "top": 231.5,
+            "right": 1151.09,
+            "bottom": 257.5,
+            "left": 1128.09
+          },
+          {
+            "label": "移除",
+            "x": 1128.09,
+            "y": 288.5,
+            "width": 23,
+            "height": 26,
+            "top": 288.5,
+            "right": 1151.09,
+            "bottom": 314.5,
+            "left": 1128.09
+          },
+          {
+            "label": "移除",
+            "x": 1128.09,
+            "y": 345.5,
+            "width": 23,
+            "height": 26,
+            "top": 345.5,
+            "right": 1151.09,
+            "bottom": 371.5,
+            "left": 1128.09
+          },
+          {
+            "label": "稻米10+2",
+            "x": 906.09,
+            "y": 444,
+            "width": 245,
+            "height": 33,
+            "top": 444,
+            "right": 1151.09,
+            "bottom": 477,
+            "left": 906.09
+          },
+          {
+            "label": "鸡蛋6+2",
+            "x": 906.09,
+            "y": 477,
+            "width": 245,
+            "height": 33,
+            "top": 477,
+            "right": 1151.09,
+            "bottom": 510,
+            "left": 906.09
+          },
+          {
+            "label": "时蔬12+2",
+            "x": 906.09,
+            "y": 510,
+            "width": 245,
+            "height": 33,
+            "top": 510,
+            "right": 1151.09,
+            "bottom": 543,
+            "left": 906.09
+          },
+          {
+            "label": "豆腐8+3",
+            "x": 906.09,
+            "y": 543,
+            "width": 245,
+            "height": 33,
+            "top": 543,
+            "right": 1151.09,
+            "bottom": 576,
+            "left": 906.09
+          },
+          {
+            "label": "面条0+3",
+            "x": 906.09,
+            "y": 576,
+            "width": 245,
+            "height": 33,
+            "top": 576,
+            "right": 1151.09,
+            "bottom": 609,
+            "left": 906.09
+          },
+          {
+            "label": "鲜肉0+4",
+            "x": 906.09,
+            "y": 609,
+            "width": 245,
+            "height": 33,
+            "top": 609,
+            "right": 1151.09,
+            "bottom": 642,
+            "left": 906.09
+          },
+          {
+            "label": "鲜鱼0+4",
+            "x": 906.09,
+            "y": 642,
+            "width": 245,
+            "height": 33,
+            "top": 642,
+            "right": 1151.09,
+            "bottom": 675,
+            "left": 906.09
+          },
+          {
+            "label": "高汤8+2",
+            "x": 906.09,
+            "y": 675,
+            "width": 245,
+            "height": 33,
+            "top": 675,
+            "right": 1151.09,
+            "bottom": 708,
+            "left": 906.09
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": "13px",
+          ".ingredient b": "11px"
+        }
+      },
+      "open": {
+        "x": 906.09375,
+        "y": 724,
+        "width": 245,
+        "height": 44
+      },
+      "game": {
+        "viewport": {
+          "width": 1180,
+          "height": 820
+        },
+        "scrollWidth": 1180,
+        "scrollHeight": 820,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1180,
+            "height": 68,
+            "top": 0,
+            "right": 1180,
+            "bottom": 68,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 68,
+            "width": 1180,
+            "height": 692,
+            "top": 68,
+            "right": 1180,
+            "bottom": 760,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 68,
+            "width": 856,
+            "height": 732,
+            "top": 68,
+            "right": 856,
+            "bottom": 800,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 856,
+            "y": 68,
+            "width": 324,
+            "height": 732,
+            "top": 68,
+            "right": 1180,
+            "bottom": 800,
+            "left": 856
+          },
+          ".order-list": {
+            "x": 857,
+            "y": 146,
+            "width": 323,
+            "height": 623,
+            "top": 146,
+            "right": 1180,
+            "bottom": 769,
+            "left": 857
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 760,
+            "width": 1180,
+            "height": 60,
+            "top": 760,
+            "right": 1180,
+            "bottom": 820,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 1064,
+            "y": 15,
+            "width": 38,
+            "height": 38,
+            "top": 15,
+            "right": 1102,
+            "bottom": 53,
+            "left": 1064
+          },
+          {
+            "label": "保存",
+            "x": 1122,
+            "y": 15,
+            "width": 38,
+            "height": 38,
+            "top": 15,
+            "right": 1160,
+            "bottom": 53,
+            "left": 1122
+          },
+          {
+            "label": "−",
+            "x": 19,
+            "y": 753,
+            "width": 29,
+            "height": 29,
+            "top": 753,
+            "right": 48,
+            "bottom": 782,
+            "left": 19
+          },
+          {
+            "label": "＋",
+            "x": 82,
+            "y": 753,
+            "width": 29,
+            "height": 29,
+            "top": 753,
+            "right": 111,
+            "bottom": 782,
+            "left": 82
+          },
+          {
+            "label": "?",
+            "x": 1130,
+            "y": 775.5,
+            "width": 30,
+            "height": 30,
+            "top": 775.5,
+            "right": 1160,
+            "bottom": 805.5,
+            "left": 1130
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settings": {
+        "viewport": {
+          "width": 1180,
+          "height": 820
+        },
+        "scrollWidth": 1180,
+        "scrollHeight": 820,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1180,
+            "height": 68,
+            "top": 0,
+            "right": 1180,
+            "bottom": 68,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 68,
+            "width": 1180,
+            "height": 692,
+            "top": 68,
+            "right": 1180,
+            "bottom": 760,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 68,
+            "width": 856,
+            "height": 732,
+            "top": 68,
+            "right": 856,
+            "bottom": 800,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 856,
+            "y": 68,
+            "width": 324,
+            "height": 732,
+            "top": 68,
+            "right": 1180,
+            "bottom": 800,
+            "left": 856
+          },
+          ".order-list": {
+            "x": 857,
+            "y": 146,
+            "width": 323,
+            "height": 623,
+            "top": 146,
+            "right": 1180,
+            "bottom": 769,
+            "left": 857
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 760,
+            "width": 1180,
+            "height": 60,
+            "top": 760,
+            "right": 1180,
+            "bottom": 820,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 360,
+            "y": 255.3,
+            "width": 460,
+            "height": 309.39,
+            "top": 255.3,
+            "right": 820,
+            "bottom": 564.69,
+            "left": 360
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 1064,
+            "y": 15,
+            "width": 38,
+            "height": 38,
+            "top": 15,
+            "right": 1102,
+            "bottom": 53,
+            "left": 1064
+          },
+          {
+            "label": "保存",
+            "x": 1122,
+            "y": 15,
+            "width": 38,
+            "height": 38,
+            "top": 15,
+            "right": 1160,
+            "bottom": 53,
+            "left": 1122
+          },
+          {
+            "label": "−",
+            "x": 19,
+            "y": 753,
+            "width": 29,
+            "height": 29,
+            "top": 753,
+            "right": 48,
+            "bottom": 782,
+            "left": 19
+          },
+          {
+            "label": "＋",
+            "x": 82,
+            "y": 753,
+            "width": 29,
+            "height": 29,
+            "top": 753,
+            "right": 111,
+            "bottom": 782,
+            "left": 82
+          },
+          {
+            "label": "?",
+            "x": 1130,
+            "y": 775.5,
+            "width": 30,
+            "height": 30,
+            "top": 775.5,
+            "right": 1160,
+            "bottom": 805.5,
+            "left": 1130
+          },
+          {
+            "label": "调整偏好",
+            "x": 390,
+            "y": 516.69,
+            "width": 400,
+            "height": 18,
+            "top": 516.69,
+            "right": 790,
+            "bottom": 534.69,
+            "left": 390
+          },
+          {
+            "label": "关闭设置",
+            "x": 776.89,
+            "y": 60,
+            "width": 29.11,
+            "height": 35,
+            "top": 60,
+            "right": 806,
+            "bottom": 95,
+            "left": 776.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settingsLast": {
+        "x": 390,
+        "y": 697,
+        "width": 400,
+        "height": 44
+      },
+      "help": {
+        "viewport": {
+          "width": 1180,
+          "height": 820
+        },
+        "scrollWidth": 1180,
+        "scrollHeight": 820,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1180,
+            "height": 68,
+            "top": 0,
+            "right": 1180,
+            "bottom": 68,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 68,
+            "width": 1180,
+            "height": 692,
+            "top": 68,
+            "right": 1180,
+            "bottom": 760,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 68,
+            "width": 856,
+            "height": 732,
+            "top": 68,
+            "right": 856,
+            "bottom": 800,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 856,
+            "y": 68,
+            "width": 324,
+            "height": 732,
+            "top": 68,
+            "right": 1180,
+            "bottom": 800,
+            "left": 856
+          },
+          ".order-list": {
+            "x": 857,
+            "y": 146,
+            "width": 323,
+            "height": 623,
+            "top": 146,
+            "right": 1180,
+            "bottom": 769,
+            "left": 857
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 760,
+            "width": 1180,
+            "height": 60,
+            "top": 760,
+            "right": 1180,
+            "bottom": 820,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 360,
+            "y": 166.75,
+            "width": 460,
+            "height": 486.5,
+            "top": 166.75,
+            "right": 820,
+            "bottom": 653.25,
+            "left": 360
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 1064,
+            "y": 15,
+            "width": 38,
+            "height": 38,
+            "top": 15,
+            "right": 1102,
+            "bottom": 53,
+            "left": 1064
+          },
+          {
+            "label": "保存",
+            "x": 1122,
+            "y": 15,
+            "width": 38,
+            "height": 38,
+            "top": 15,
+            "right": 1160,
+            "bottom": 53,
+            "left": 1122
+          },
+          {
+            "label": "−",
+            "x": 19,
+            "y": 753,
+            "width": 29,
+            "height": 29,
+            "top": 753,
+            "right": 48,
+            "bottom": 782,
+            "left": 19
+          },
+          {
+            "label": "＋",
+            "x": 82,
+            "y": 753,
+            "width": 29,
+            "height": 29,
+            "top": 753,
+            "right": 111,
+            "bottom": 782,
+            "left": 82
+          },
+          {
+            "label": "?",
+            "x": 1130,
+            "y": 775.5,
+            "width": 30,
+            "height": 30,
+            "top": 775.5,
+            "right": 1160,
+            "bottom": 805.5,
+            "left": 1130
+          },
+          {
+            "label": "×",
+            "x": 776.89,
+            "y": 177.75,
+            "width": 29.11,
+            "height": 35,
+            "top": 177.75,
+            "right": 806,
+            "bottom": 212.75,
+            "left": 776.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "helpLast": {
+        "x": 390,
+        "y": 579.25,
+        "width": 400,
+        "height": 44
+      },
+      "summary": {
+        "viewport": {
+          "width": 1180,
+          "height": 820
+        },
+        "scrollWidth": 1180,
+        "scrollHeight": 820,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": {
+            "x": 590,
+            "y": 76.72,
+            "width": 590,
+            "height": 666.55,
+            "top": 76.72,
+            "right": 1180,
+            "bottom": 743.27,
+            "left": 590
+          }
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "next": {
+        "x": 660.796875,
+        "y": 642.265625,
+        "width": 142.09375,
+        "height": 51
+      }
+    },
+    {
+      "id": "laptop",
+      "width": 1024,
+      "height": 600,
+      "title": {
+        "viewport": {
+          "width": 1024,
+          "height": 600
+        },
+        "scrollWidth": 1024,
+        "scrollHeight": 612,
+        "rects": {
+          ".title-actions": {
+            "x": 51.19,
+            "y": 458.56,
+            "width": 322.56,
+            "height": 51,
+            "top": 458.56,
+            "right": 373.75,
+            "bottom": 509.56,
+            "left": 51.19
+          },
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "打开设置",
+            "x": 934.81,
+            "y": 30,
+            "width": 38,
+            "height": 38,
+            "top": 30,
+            "right": 972.81,
+            "bottom": 68,
+            "left": 934.81
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "prep": {
+        "viewport": {
+          "width": 1024,
+          "height": 600
+        },
+        "scrollWidth": 1024,
+        "scrollHeight": 1226,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 79,
+            "top": 0,
+            "right": 1024,
+            "bottom": 79,
+            "left": 0
+          },
+          ".prep-layout": {
+            "x": 0,
+            "y": 79,
+            "width": 1024,
+            "height": 1110.5,
+            "top": 79,
+            "right": 1024,
+            "bottom": 1189.5,
+            "left": 0
+          },
+          ".prep-work": {
+            "x": 268.28,
+            "y": 101,
+            "width": 470,
+            "height": 1066.5,
+            "top": 101,
+            "right": 738.28,
+            "bottom": 1167.5,
+            "left": 268.28
+          },
+          ".prep-summary": {
+            "x": 756.28,
+            "y": 101,
+            "width": 243.7,
+            "height": 1066.5,
+            "top": 101,
+            "right": 999.98,
+            "bottom": 1167.5,
+            "left": 756.28
+          },
+          ".prep-tabs": {
+            "x": 268.28,
+            "y": 101,
+            "width": 470,
+            "height": 43,
+            "top": 101,
+            "right": 738.28,
+            "bottom": 144,
+            "left": 268.28
+          },
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "保存",
+            "x": 891.92,
+            "y": 20,
+            "width": 38,
+            "height": 38,
+            "top": 20,
+            "right": 929.92,
+            "bottom": 58,
+            "left": 891.92
+          },
+          {
+            "label": "设置",
+            "x": 939.92,
+            "y": 20,
+            "width": 38,
+            "height": 38,
+            "top": 20,
+            "right": 977.92,
+            "bottom": 58,
+            "left": 939.92
+          },
+          {
+            "label": "补足建议",
+            "x": 939.98,
+            "y": 105.5,
+            "width": 60,
+            "height": 18,
+            "top": 105.5,
+            "right": 999.98,
+            "bottom": 123.5,
+            "left": 939.98
+          },
+          {
+            "label": "移除",
+            "x": 976.98,
+            "y": 158.5,
+            "width": 23,
+            "height": 26,
+            "top": 158.5,
+            "right": 999.98,
+            "bottom": 184.5,
+            "left": 976.98
+          },
+          {
+            "label": "移除",
+            "x": 976.98,
+            "y": 215.5,
+            "width": 23,
+            "height": 26,
+            "top": 215.5,
+            "right": 999.98,
+            "bottom": 241.5,
+            "left": 976.98
+          },
+          {
+            "label": "移除",
+            "x": 976.98,
+            "y": 272.5,
+            "width": 23,
+            "height": 26,
+            "top": 272.5,
+            "right": 999.98,
+            "bottom": 298.5,
+            "left": 976.98
+          },
+          {
+            "label": "移除",
+            "x": 976.98,
+            "y": 329.5,
+            "width": 23,
+            "height": 26,
+            "top": 329.5,
+            "right": 999.98,
+            "bottom": 355.5,
+            "left": 976.98
+          },
+          {
+            "label": "稻米10+2",
+            "x": 772.28,
+            "y": 428,
+            "width": 227.7,
+            "height": 33,
+            "top": 428,
+            "right": 999.98,
+            "bottom": 461,
+            "left": 772.28
+          },
+          {
+            "label": "鸡蛋6+2",
+            "x": 772.28,
+            "y": 461,
+            "width": 227.7,
+            "height": 33,
+            "top": 461,
+            "right": 999.98,
+            "bottom": 494,
+            "left": 772.28
+          },
+          {
+            "label": "时蔬12+2",
+            "x": 772.28,
+            "y": 494,
+            "width": 227.7,
+            "height": 33,
+            "top": 494,
+            "right": 999.98,
+            "bottom": 527,
+            "left": 772.28
+          },
+          {
+            "label": "豆腐8+3",
+            "x": 772.28,
+            "y": 527,
+            "width": 227.7,
+            "height": 33,
+            "top": 527,
+            "right": 999.98,
+            "bottom": 560,
+            "left": 772.28
+          },
+          {
+            "label": "面条0+3",
+            "x": 772.28,
+            "y": 560,
+            "width": 227.7,
+            "height": 33,
+            "top": 560,
+            "right": 999.98,
+            "bottom": 593,
+            "left": 772.28
+          },
+          {
+            "label": "鲜肉0+4",
+            "x": 772.28,
+            "y": 593,
+            "width": 227.7,
+            "height": 33,
+            "top": 593,
+            "right": 999.98,
+            "bottom": 626,
+            "left": 772.28
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": "13px",
+          ".ingredient b": "11px"
+        }
+      },
+      "open": {
+        "x": 772.28125,
+        "y": 278,
+        "width": 227.703125,
+        "height": 44
+      },
+      "game": {
+        "viewport": {
+          "width": 1024,
+          "height": 600
+        },
+        "scrollWidth": 1024,
+        "scrollHeight": 600,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 60,
+            "top": 0,
+            "right": 1024,
+            "bottom": 60,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 60,
+            "width": 1024,
+            "height": 472,
+            "top": 60,
+            "right": 1024,
+            "bottom": 532,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 60,
+            "width": 778,
+            "height": 724,
+            "top": 60,
+            "right": 778,
+            "bottom": 784,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 778,
+            "y": 60,
+            "width": 246,
+            "height": 724,
+            "top": 60,
+            "right": 1024,
+            "bottom": 784,
+            "left": 778
+          },
+          ".order-list": {
+            "x": 779,
+            "y": 138,
+            "width": 245,
+            "height": 615,
+            "top": 138,
+            "right": 1024,
+            "bottom": 753,
+            "left": 779
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 532,
+            "width": 1024,
+            "height": 56,
+            "top": 532,
+            "right": 1024,
+            "bottom": 588,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settings": {
+        "viewport": {
+          "width": 1024,
+          "height": 600
+        },
+        "scrollWidth": 1024,
+        "scrollHeight": 600,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 60,
+            "top": 0,
+            "right": 1024,
+            "bottom": 60,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 60,
+            "width": 1024,
+            "height": 472,
+            "top": 60,
+            "right": 1024,
+            "bottom": 532,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 60,
+            "width": 778,
+            "height": 724,
+            "top": 60,
+            "right": 778,
+            "bottom": 784,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 778,
+            "y": 60,
+            "width": 246,
+            "height": 724,
+            "top": 60,
+            "right": 1024,
+            "bottom": 784,
+            "left": 778
+          },
+          ".order-list": {
+            "x": 779,
+            "y": 138,
+            "width": 245,
+            "height": 615,
+            "top": 138,
+            "right": 1024,
+            "bottom": 753,
+            "left": 779
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 532,
+            "width": 1024,
+            "height": 56,
+            "top": 532,
+            "right": 1024,
+            "bottom": 588,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 282,
+            "y": 145.3,
+            "width": 460,
+            "height": 309.39,
+            "top": 145.3,
+            "right": 742,
+            "bottom": 454.69,
+            "left": 282
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "调整偏好",
+            "x": 312,
+            "y": 406.69,
+            "width": 400,
+            "height": 18,
+            "top": 406.69,
+            "right": 712,
+            "bottom": 424.69,
+            "left": 312
+          },
+          {
+            "label": "关闭设置",
+            "x": 698.89,
+            "y": 27,
+            "width": 29.11,
+            "height": 35,
+            "top": 27,
+            "right": 728,
+            "bottom": 62,
+            "left": 698.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settingsLast": {
+        "x": 312,
+        "y": 510,
+        "width": 400,
+        "height": 44
+      },
+      "help": {
+        "viewport": {
+          "width": 1024,
+          "height": 600
+        },
+        "scrollWidth": 1024,
+        "scrollHeight": 600,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 60,
+            "top": 0,
+            "right": 1024,
+            "bottom": 60,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 60,
+            "width": 1024,
+            "height": 472,
+            "top": 60,
+            "right": 1024,
+            "bottom": 532,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 60,
+            "width": 778,
+            "height": 724,
+            "top": 60,
+            "right": 778,
+            "bottom": 784,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 778,
+            "y": 60,
+            "width": 246,
+            "height": 724,
+            "top": 60,
+            "right": 1024,
+            "bottom": 784,
+            "left": 778
+          },
+          ".order-list": {
+            "x": 779,
+            "y": 138,
+            "width": 245,
+            "height": 615,
+            "top": 138,
+            "right": 1024,
+            "bottom": 753,
+            "left": 779
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 532,
+            "width": 1024,
+            "height": 56,
+            "top": 532,
+            "right": 1024,
+            "bottom": 588,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 282,
+            "y": 56.75,
+            "width": 460,
+            "height": 486.5,
+            "top": 56.75,
+            "right": 742,
+            "bottom": 543.25,
+            "left": 282
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "×",
+            "x": 698.89,
+            "y": 67.75,
+            "width": 29.11,
+            "height": 35,
+            "top": 67.75,
+            "right": 728,
+            "bottom": 102.75,
+            "left": 698.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "helpLast": {
+        "x": 312,
+        "y": 469.25,
+        "width": 400,
+        "height": 44
+      },
+      "summary": {
+        "viewport": {
+          "width": 1024,
+          "height": 600
+        },
+        "scrollWidth": 1024,
+        "scrollHeight": 658,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": {
+            "x": 512,
+            "y": 0,
+            "width": 512,
+            "height": 658.44,
+            "top": 0,
+            "right": 1024,
+            "bottom": 658.44,
+            "left": 512
+          }
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "next": {
+        "x": 573.4375,
+        "y": 549.4375,
+        "width": 142.09375,
+        "height": 51
+      }
+    },
+    {
+      "id": "desktop",
+      "width": 1440,
+      "height": 900,
+      "title": {
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "scrollWidth": 1440,
+        "scrollHeight": 900,
+        "rects": {
+          ".title-actions": {
+            "x": 100.8,
+            "y": 615.98,
+            "width": 440,
+            "height": 51,
+            "top": 615.98,
+            "right": 540.8,
+            "bottom": 666.98,
+            "left": 100.8
+          },
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "打开设置",
+            "x": 1330,
+            "y": 45,
+            "width": 38,
+            "height": 38,
+            "top": 45,
+            "right": 1368,
+            "bottom": 83,
+            "left": 1330
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "prep": {
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "scrollWidth": 1440,
+        "scrollHeight": 900,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 79,
+            "top": 0,
+            "right": 1440,
+            "bottom": 79,
+            "left": 0
+          },
+          ".prep-layout": {
+            "x": 0,
+            "y": 79,
+            "width": 1440,
+            "height": 770,
+            "top": 79,
+            "right": 1440,
+            "bottom": 849,
+            "left": 0
+          },
+          ".prep-work": {
+            "x": 358.8,
+            "y": 117,
+            "width": 712.41,
+            "height": 702,
+            "top": 117,
+            "right": 1071.2,
+            "bottom": 819,
+            "left": 358.8
+          },
+          ".prep-summary": {
+            "x": 1105.2,
+            "y": 117,
+            "width": 270,
+            "height": 702,
+            "top": 117,
+            "right": 1375.2,
+            "bottom": 819,
+            "left": 1105.2
+          },
+          ".prep-tabs": {
+            "x": 358.8,
+            "y": 117,
+            "width": 712.41,
+            "height": 31,
+            "top": 117,
+            "right": 1071.2,
+            "bottom": 148,
+            "left": 358.8
+          },
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "保存",
+            "x": 1289.2,
+            "y": 20,
+            "width": 38,
+            "height": 38,
+            "top": 20,
+            "right": 1327.2,
+            "bottom": 58,
+            "left": 1289.2
+          },
+          {
+            "label": "设置",
+            "x": 1337.2,
+            "y": 20,
+            "width": 38,
+            "height": 38,
+            "top": 20,
+            "right": 1375.2,
+            "bottom": 58,
+            "left": 1337.2
+          },
+          {
+            "label": "菜单与备料",
+            "x": 358.8,
+            "y": 117,
+            "width": 65,
+            "height": 30,
+            "top": 117,
+            "right": 423.8,
+            "bottom": 147,
+            "left": 358.8
+          },
+          {
+            "label": "店铺扩建",
+            "x": 445.8,
+            "y": 117,
+            "width": 52,
+            "height": 30,
+            "top": 117,
+            "right": 497.8,
+            "bottom": 147,
+            "left": 445.8
+          },
+          {
+            "label": "设备升级",
+            "x": 519.8,
+            "y": 117,
+            "width": 52,
+            "height": 30,
+            "top": 117,
+            "right": 571.8,
+            "bottom": 147,
+            "left": 519.8
+          },
+          {
+            "label": "伙伴安排",
+            "x": 593.8,
+            "y": 117,
+            "width": 52,
+            "height": 30,
+            "top": 117,
+            "right": 645.8,
+            "bottom": 147,
+            "left": 593.8
+          },
+          {
+            "label": "补足建议",
+            "x": 1315.2,
+            "y": 121.5,
+            "width": 60,
+            "height": 18,
+            "top": 121.5,
+            "right": 1375.2,
+            "bottom": 139.5,
+            "left": 1315.2
+          },
+          {
+            "label": "移除",
+            "x": 1352.2,
+            "y": 174.5,
+            "width": 23,
+            "height": 26,
+            "top": 174.5,
+            "right": 1375.2,
+            "bottom": 200.5,
+            "left": 1352.2
+          },
+          {
+            "label": "移除",
+            "x": 1352.2,
+            "y": 231.5,
+            "width": 23,
+            "height": 26,
+            "top": 231.5,
+            "right": 1375.2,
+            "bottom": 257.5,
+            "left": 1352.2
+          },
+          {
+            "label": "移除",
+            "x": 1352.2,
+            "y": 288.5,
+            "width": 23,
+            "height": 26,
+            "top": 288.5,
+            "right": 1375.2,
+            "bottom": 314.5,
+            "left": 1352.2
+          },
+          {
+            "label": "移除",
+            "x": 1352.2,
+            "y": 345.5,
+            "width": 23,
+            "height": 26,
+            "top": 345.5,
+            "right": 1375.2,
+            "bottom": 371.5,
+            "left": 1352.2
+          },
+          {
+            "label": "稻米10+2",
+            "x": 1130.2,
+            "y": 444,
+            "width": 245,
+            "height": 33,
+            "top": 444,
+            "right": 1375.2,
+            "bottom": 477,
+            "left": 1130.2
+          },
+          {
+            "label": "鸡蛋6+2",
+            "x": 1130.2,
+            "y": 477,
+            "width": 245,
+            "height": 33,
+            "top": 477,
+            "right": 1375.2,
+            "bottom": 510,
+            "left": 1130.2
+          },
+          {
+            "label": "时蔬12+2",
+            "x": 1130.2,
+            "y": 510,
+            "width": 245,
+            "height": 33,
+            "top": 510,
+            "right": 1375.2,
+            "bottom": 543,
+            "left": 1130.2
+          },
+          {
+            "label": "豆腐8+3",
+            "x": 1130.2,
+            "y": 543,
+            "width": 245,
+            "height": 33,
+            "top": 543,
+            "right": 1375.2,
+            "bottom": 576,
+            "left": 1130.2
+          },
+          {
+            "label": "面条0+3",
+            "x": 1130.2,
+            "y": 576,
+            "width": 245,
+            "height": 33,
+            "top": 576,
+            "right": 1375.2,
+            "bottom": 609,
+            "left": 1130.2
+          },
+          {
+            "label": "鲜肉0+4",
+            "x": 1130.2,
+            "y": 609,
+            "width": 245,
+            "height": 33,
+            "top": 609,
+            "right": 1375.2,
+            "bottom": 642,
+            "left": 1130.2
+          },
+          {
+            "label": "鲜鱼0+4",
+            "x": 1130.2,
+            "y": 642,
+            "width": 245,
+            "height": 33,
+            "top": 642,
+            "right": 1375.2,
+            "bottom": 675,
+            "left": 1130.2
+          },
+          {
+            "label": "高汤8+2",
+            "x": 1130.2,
+            "y": 675,
+            "width": 245,
+            "height": 33,
+            "top": 675,
+            "right": 1375.2,
+            "bottom": 708,
+            "left": 1130.2
+          }
+        ],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": "13px",
+          ".ingredient b": "11px"
+        }
+      },
+      "open": {
+        "x": 1130.203125,
+        "y": 724,
+        "width": 245,
+        "height": 44
+      },
+      "game": {
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "scrollWidth": 1440,
+        "scrollHeight": 900,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 68,
+            "top": 0,
+            "right": 1440,
+            "bottom": 68,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 68,
+            "width": 1440,
+            "height": 772,
+            "top": 68,
+            "right": 1440,
+            "bottom": 840,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 68,
+            "width": 1116,
+            "height": 772,
+            "top": 68,
+            "right": 1116,
+            "bottom": 840,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 1116,
+            "y": 68,
+            "width": 324,
+            "height": 772,
+            "top": 68,
+            "right": 1440,
+            "bottom": 840,
+            "left": 1116
+          },
+          ".order-list": {
+            "x": 1117,
+            "y": 146,
+            "width": 323,
+            "height": 663,
+            "top": 146,
+            "right": 1440,
+            "bottom": 809,
+            "left": 1117
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 840,
+            "width": 1440,
+            "height": 60,
+            "top": 840,
+            "right": 1440,
+            "bottom": 900,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 1324,
+            "y": 15,
+            "width": 38,
+            "height": 38,
+            "top": 15,
+            "right": 1362,
+            "bottom": 53,
+            "left": 1324
+          },
+          {
+            "label": "保存",
+            "x": 1382,
+            "y": 15,
+            "width": 38,
+            "height": 38,
+            "top": 15,
+            "right": 1420,
+            "bottom": 53,
+            "left": 1382
+          },
+          {
+            "label": "−",
+            "x": 19,
+            "y": 793,
+            "width": 29,
+            "height": 29,
+            "top": 793,
+            "right": 48,
+            "bottom": 822,
+            "left": 19
+          },
+          {
+            "label": "＋",
+            "x": 82,
+            "y": 793,
+            "width": 29,
+            "height": 29,
+            "top": 793,
+            "right": 111,
+            "bottom": 822,
+            "left": 82
+          },
+          {
+            "label": "?",
+            "x": 1390,
+            "y": 855.5,
+            "width": 30,
+            "height": 30,
+            "top": 855.5,
+            "right": 1420,
+            "bottom": 885.5,
+            "left": 1390
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settings": {
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "scrollWidth": 1440,
+        "scrollHeight": 900,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 68,
+            "top": 0,
+            "right": 1440,
+            "bottom": 68,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 68,
+            "width": 1440,
+            "height": 772,
+            "top": 68,
+            "right": 1440,
+            "bottom": 840,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 68,
+            "width": 1116,
+            "height": 772,
+            "top": 68,
+            "right": 1116,
+            "bottom": 840,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 1116,
+            "y": 68,
+            "width": 324,
+            "height": 772,
+            "top": 68,
+            "right": 1440,
+            "bottom": 840,
+            "left": 1116
+          },
+          ".order-list": {
+            "x": 1117,
+            "y": 146,
+            "width": 323,
+            "height": 663,
+            "top": 146,
+            "right": 1440,
+            "bottom": 809,
+            "left": 1117
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 840,
+            "width": 1440,
+            "height": 60,
+            "top": 840,
+            "right": 1440,
+            "bottom": 900,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 490,
+            "y": 295.3,
+            "width": 460,
+            "height": 309.39,
+            "top": 295.3,
+            "right": 950,
+            "bottom": 604.69,
+            "left": 490
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 1324,
+            "y": 15,
+            "width": 38,
+            "height": 38,
+            "top": 15,
+            "right": 1362,
+            "bottom": 53,
+            "left": 1324
+          },
+          {
+            "label": "保存",
+            "x": 1382,
+            "y": 15,
+            "width": 38,
+            "height": 38,
+            "top": 15,
+            "right": 1420,
+            "bottom": 53,
+            "left": 1382
+          },
+          {
+            "label": "−",
+            "x": 19,
+            "y": 793,
+            "width": 29,
+            "height": 29,
+            "top": 793,
+            "right": 48,
+            "bottom": 822,
+            "left": 19
+          },
+          {
+            "label": "＋",
+            "x": 82,
+            "y": 793,
+            "width": 29,
+            "height": 29,
+            "top": 793,
+            "right": 111,
+            "bottom": 822,
+            "left": 82
+          },
+          {
+            "label": "?",
+            "x": 1390,
+            "y": 855.5,
+            "width": 30,
+            "height": 30,
+            "top": 855.5,
+            "right": 1420,
+            "bottom": 885.5,
+            "left": 1390
+          },
+          {
+            "label": "调整偏好",
+            "x": 520,
+            "y": 556.69,
+            "width": 400,
+            "height": 18,
+            "top": 556.69,
+            "right": 920,
+            "bottom": 574.69,
+            "left": 520
+          },
+          {
+            "label": "关闭设置",
+            "x": 906.89,
+            "y": 100,
+            "width": 29.11,
+            "height": 35,
+            "top": 100,
+            "right": 936,
+            "bottom": 135,
+            "left": 906.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "settingsLast": {
+        "x": 520,
+        "y": 737,
+        "width": 400,
+        "height": 44
+      },
+      "help": {
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "scrollWidth": 1440,
+        "scrollHeight": 900,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 68,
+            "top": 0,
+            "right": 1440,
+            "bottom": 68,
+            "left": 0
+          },
+          ".game-layout": {
+            "x": 0,
+            "y": 68,
+            "width": 1440,
+            "height": 772,
+            "top": 68,
+            "right": 1440,
+            "bottom": 840,
+            "left": 0
+          },
+          ".canvas-wrap": {
+            "x": 0,
+            "y": 68,
+            "width": 1116,
+            "height": 772,
+            "top": 68,
+            "right": 1116,
+            "bottom": 840,
+            "left": 0
+          },
+          ".order-rail": {
+            "x": 1116,
+            "y": 68,
+            "width": 324,
+            "height": 772,
+            "top": 68,
+            "right": 1440,
+            "bottom": 840,
+            "left": 1116
+          },
+          ".order-list": {
+            "x": 1117,
+            "y": 146,
+            "width": 323,
+            "height": 663,
+            "top": 146,
+            "right": 1440,
+            "bottom": 809,
+            "left": 1117
+          },
+          ".work-rail": {
+            "x": 0,
+            "y": 840,
+            "width": 1440,
+            "height": 60,
+            "top": 840,
+            "right": 1440,
+            "bottom": 900,
+            "left": 0
+          },
+          ".tutorial-panel": null,
+          ".modal": {
+            "x": 490,
+            "y": 206.75,
+            "width": 460,
+            "height": 486.5,
+            "top": 206.75,
+            "right": 950,
+            "bottom": 693.25,
+            "left": 490
+          },
+          ".summary-card": null
+        },
+        "smallTargets": [
+          {
+            "label": "暂停",
+            "x": 1324,
+            "y": 15,
+            "width": 38,
+            "height": 38,
+            "top": 15,
+            "right": 1362,
+            "bottom": 53,
+            "left": 1324
+          },
+          {
+            "label": "保存",
+            "x": 1382,
+            "y": 15,
+            "width": 38,
+            "height": 38,
+            "top": 15,
+            "right": 1420,
+            "bottom": 53,
+            "left": 1382
+          },
+          {
+            "label": "−",
+            "x": 19,
+            "y": 793,
+            "width": 29,
+            "height": 29,
+            "top": 793,
+            "right": 48,
+            "bottom": 822,
+            "left": 19
+          },
+          {
+            "label": "＋",
+            "x": 82,
+            "y": 793,
+            "width": 29,
+            "height": 29,
+            "top": 793,
+            "right": 111,
+            "bottom": 822,
+            "left": 82
+          },
+          {
+            "label": "?",
+            "x": 1390,
+            "y": 855.5,
+            "width": 30,
+            "height": 30,
+            "top": 855.5,
+            "right": 1420,
+            "bottom": 885.5,
+            "left": 1390
+          },
+          {
+            "label": "×",
+            "x": 906.89,
+            "y": 217.75,
+            "width": 29.11,
+            "height": 35,
+            "top": 217.75,
+            "right": 936,
+            "bottom": 252.75,
+            "left": 906.89
+          }
+        ],
+        "fonts": {
+          ".order-top b": "11px",
+          ".order-status": "9px",
+          ".order-dish": "10px",
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "helpLast": {
+        "x": 520,
+        "y": 619.25,
+        "width": 400,
+        "height": 44
+      },
+      "summary": {
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "scrollWidth": 1440,
+        "scrollHeight": 900,
+        "rects": {
+          ".title-actions": null,
+          ".prep-top": null,
+          ".prep-layout": null,
+          ".prep-work": null,
+          ".prep-summary": null,
+          ".prep-tabs": null,
+          ".game-top": null,
+          ".game-layout": null,
+          ".canvas-wrap": null,
+          ".order-rail": null,
+          ".order-list": null,
+          ".work-rail": null,
+          ".tutorial-panel": null,
+          ".modal": null,
+          ".summary-card": {
+            "x": 720,
+            "y": 112.05,
+            "width": 720,
+            "height": 675.91,
+            "top": 112.05,
+            "right": 1440,
+            "bottom": 787.95,
+            "left": 720
+          }
+        },
+        "smallTargets": [],
+        "fonts": {
+          ".order-top b": null,
+          ".order-status": null,
+          ".order-dish": null,
+          ".tab": null,
+          ".ingredient b": null
+        }
+      },
+      "next": {
+        "x": 806.390625,
+        "y": 686.953125,
+        "width": 142.09375,
+        "height": 51
+      }
+    }
+  ]
+}

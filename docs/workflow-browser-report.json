@@ -1,0 +1,267 @@
+{
+  "result": "PASS",
+  "scope": "Isolated saved workflow frames plus live tutorial-arrow motion; real clicking is covered by test:service.",
+  "frames": {
+    "fetch": {
+      "action": "fetch",
+      "tools": [],
+      "food": {
+        "id": "job3",
+        "visible": true,
+        "variant": "raw",
+        "location": "supply",
+        "position": [
+          -2.8,
+          0.8769928476957102,
+          -2.1514719015537125
+        ]
+      },
+      "carry": [
+        -2.8,
+        1.1020554707107975,
+        -2.3451146423237117
+      ],
+      "drawer": 0.7297281614039219
+    },
+    "chop": {
+      "action": "chop",
+      "tools": [
+        "knife"
+      ],
+      "food": {
+        "id": "job3",
+        "visible": true,
+        "variant": "chopped",
+        "location": "prep",
+        "position": [
+          -2.92,
+          1.15,
+          -2.35
+        ]
+      },
+      "carry": [
+        -2.8,
+        1.1270601341091497,
+        -2.288124075983293
+      ],
+      "drawer": 0.49
+    },
+    "transfer": {
+      "action": "carry",
+      "tools": [],
+      "food": {
+        "id": "job3",
+        "visible": true,
+        "variant": "chopped",
+        "location": "actor",
+        "position": [
+          -2.92,
+          1.155,
+          -2.21
+        ]
+      },
+      "carry": [
+        -2.92,
+        1.155,
+        -2.21
+      ],
+      "drawer": 0.49
+    },
+    "pour": {
+      "action": "pour",
+      "tools": [
+        "tray"
+      ],
+      "food": {
+        "id": "job3",
+        "visible": true,
+        "variant": "chopped",
+        "location": "actor",
+        "position": [
+          -1.26,
+          1.3560852894808049,
+          -2.1985689014344834
+        ]
+      },
+      "carry": [
+        -1.26,
+        1.3559462727720266,
+        -2.1860891039001964
+      ],
+      "drawer": 0.49
+    },
+    "scoop": {
+      "action": "scoop",
+      "tools": [
+        "ladle",
+        "emptyDish"
+      ],
+      "food": {
+        "id": "job3",
+        "visible": true,
+        "variant": "cooking",
+        "location": "stove",
+        "position": [
+          -1.26,
+          1.4931843406469159,
+          -2.448302121632637
+        ]
+      },
+      "carry": [
+        -1.26,
+        1.1270601341091497,
+        -2.288124075983293
+      ],
+      "drawer": 0.49
+    },
+    "plate-transfer": {
+      "action": "carry",
+      "tools": [],
+      "food": {
+        "id": "job3",
+        "visible": true,
+        "variant": "plated",
+        "location": "actor",
+        "position": [
+          -1.26,
+          1.155,
+          -2.21
+        ]
+      },
+      "carry": [
+        -1.26,
+        1.155,
+        -2.21
+      ],
+      "drawer": 0.49
+    },
+    "garnish": {
+      "action": "garnish",
+      "tools": [
+        "bottle"
+      ],
+      "food": {
+        "id": "job3",
+        "visible": true,
+        "variant": "plated",
+        "location": "actor",
+        "position": [
+          0.68,
+          1.105,
+          -2.27
+        ]
+      },
+      "carry": [
+        0.68,
+        1.1270601341091497,
+        -2.288124075983293
+      ],
+      "drawer": 0.49
+    },
+    "delivery": {
+      "action": "carry",
+      "tools": [],
+      "food": {
+        "id": "job3",
+        "visible": true,
+        "variant": "plated",
+        "location": "actor",
+        "position": [
+          0.68,
+          1.155,
+          -2.21
+        ]
+      },
+      "carry": [
+        0.68,
+        1.155,
+        -2.21
+      ],
+      "drawer": 0.49
+    },
+    "wipe": {
+      "action": "wipe",
+      "tools": [
+        "cloth"
+      ],
+      "food": {
+        "id": "job3",
+        "visible": false,
+        "variant": "plated",
+        "location": "table",
+        "position": [
+          -3.0100000000000002,
+          0.961,
+          0.7200000000000001
+        ]
+      },
+      "carry": [
+        -2.7,
+        1.1270601341091497,
+        0.921875924016707
+      ],
+      "drawer": 0.49
+    },
+    "wash": {
+      "action": "wash",
+      "tools": [
+        "cloth",
+        "dirty",
+        "water"
+      ],
+      "food": {
+        "id": "job3",
+        "visible": false,
+        "variant": "plated",
+        "location": "table",
+        "position": [
+          -3.0100000000000002,
+          0.961,
+          0.7200000000000001
+        ]
+      },
+      "carry": [
+        3,
+        1.0748226079749434,
+        -2.314032392473913
+      ],
+      "drawer": 0.49
+    },
+    "fry": {
+      "action": "pour",
+      "tools": [
+        "spatula",
+        "tray"
+      ],
+      "food": {
+        "id": "job3",
+        "visible": true,
+        "variant": "chopped",
+        "location": "actor",
+        "position": [
+          -1.26,
+          1.2441342188668216,
+          -2.455652730640792
+        ]
+      },
+      "carry": [
+        -1.26,
+        1.3559462727720266,
+        -2.1860891039001964
+      ],
+      "drawer": 0.49
+    }
+  },
+  "arrow": {
+    "ys": [
+      135.62844848632812,
+      132.99130249023438,
+      132.0955810546875,
+      132.35543823242188,
+      133.8336181640625,
+      136.53240966796875
+    ],
+    "stroke": "none",
+    "filter": "none"
+  }
+}

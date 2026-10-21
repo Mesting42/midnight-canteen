@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>免费动作素材预览 · 深夜食堂</title>
+  </head>
+  <body>
+    <main>
+      <header>
+        <a class="back" href="/">← 回到食堂</a>
+        <span class="stamp">素材研究 / CC0</span>
+        <h1>先把动作走对。</h1>
+        <p>下面展示下载素材的原始模型与真实骨骼动作，供改绘时对照。人物外观还需要制作成复古手绘风格。</p>
+      </header>
+      <section class="bench" aria-label="人物和车辆动作预览">
+        <div id="preview" role="img" aria-label="开源人物骨骼动作与四轮车辆预览"></div>
+        <div id="status" role="status">正在载入本地动作素材…</div>
+        <div class="caption"><span>Quaternius / 人物动作</span><span>Kenney / 车辆与独立车轮</span></div>
+      </section>
+      <section class="controls" aria-label="动作控制">
+        <div class="actions" role="group" aria-label="选择人物动作">
+          <button data-clip="Walk_Loop" aria-pressed="true">行走</button>
+          <button data-clip="Idle_Loop" aria-pressed="false">站立</button>
+          <button data-clip="Sitting_Enter" aria-pressed="false">坐下</button>
+          <button data-clip="Sitting_Idle_Loop" aria-pressed="false">坐着</button>
+          <button data-clip="Sitting_Exit" aria-pressed="false">起身</button>
+          <button data-clip="PickUp_Table" aria-pressed="false">取物</button>
+        </div>
+        <div class="transport">
+          <button id="pause" aria-pressed="false">暂停</button>
+          <label>速度 <input id="speed" type="range" min="0.25" max="1.5" step="0.25" value="1" /><output id="rate">1×</output></label>
+          <label><input id="move" type="checkbox" checked /> 沿路线移动</label>
+          <label>视角 <select id="view"><option value="0">斜俯视</option><option value="1">另一侧</option><option value="2">看向车头</option><option value="3">看向车尾</option></select></label>
+        </div>
+      </section>
+      <section class="comic-result" aria-label="主画面动作帧效果">
+        <div class="result-heading"><div><h2>营业画面里的卡通动作帧</h2><p>使用同一套骨骼动作，按食堂斜俯视镜头渲染成带墨线的2D帧。上排为不同年龄与衣色的人物，下排为车身朝向和轮轴。</p></div><span>主画面渲染</span></div>
+        <canvas id="sprite-output" width="1024" height="320" aria-label="人物骨骼动作和车轮的2D卡通帧"></canvas>
+        <div id="sprite-status" role="status">正在生成主画面动作帧…</div>
+      </section>
+      <section class="notes">
+        <article><h2>人物动作</h2><p>免费 Standard 文件实际包含 43 个片段，其中 1 个为 T 姿势。行走、站立、坐下、起身和工作动作会渲染成可循环的透明帧。</p><a href="https://quaternius.itch.io/universal-animation-library" target="_blank" rel="noreferrer">查看作者与授权 ↗</a></article>
+        <article><h2>车辆朝向与车轮</h2><p>车头沿商场外道路方向行驶，四个独立车轮按行驶距离旋转。2D主画面使用暖灰和米色车漆，加粗外轮廓融入复古漫画场景。</p><a href="https://opengameart.org/content/car-kit" target="_blank" rel="noreferrer">查看作者与授权 ↗</a></article>
+        <article><h2>年龄与衣色</h2><p>当前人物帧用同一骨架表现不同身高、肤色与服装配色。后续仍可在此基础上添加发型、服饰细节、猫狗骨骼动作和手绘修饰。</p><a id="research-notes" href="/docs/OPEN_ASSET_RESEARCH.md" target="_blank">查看素材核实记录 ↗</a></article>
+      </section>
+      <footer>所有预览素材从本地文件载入 · 未接入经营存档 · 原始授权文件保留在 assets/open-source/</footer>
+    </main>
+    <script type="module" src="/src/asset-preview.js"></script>
+  </body>
+</html>
