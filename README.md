@@ -99,3 +99,14 @@ npm run test:workflow
 - `src/tutorial.js`：操作式引导、完成记录、当前目标与练习期间的计时保护。
 - `src/main.js` / `src/style.css`：准备、营业、日结、结局、响应式界面和设置。
 - `src/audio.js`：本地 Web Audio 音乐与工作音效。
+
+<!-- pixel-pier-game-listing:start -->
+## Game listing / 游戏展示
+
+- **Game developer / 游戏开发者:** Mest ([@Mesting42](https://github.com/Mesting42))
+- **Pixel Pier listing / 游戏展示页面:** [Midnight Canteen](https://riverglint.link/games/midnight-canteen/)
+
+This game is listed on Pixel Pier with a play entry and game guide. This link identifies a game-development and listing relationship; it does not identify the developer as the website operator or operating entity.
+
+本游戏在 Pixel Pier 展示，并提供游玩入口与游戏指南。此链接仅表示游戏开发与展示关联，不代表开发者是该网站的运营者或运营主体。
+<!-- pixel-pier-game-listing:end -->
